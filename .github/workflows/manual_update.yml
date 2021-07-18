@@ -1,4 +1,4 @@
-name: Update the repository with the latest base16 colorschemes
+name: Update (manual) the repository with the latest base16 colorschemes
 on:
   workflow_dispatch:
     # Inputs the workflow accepts.
