@@ -1,0 +1,20 @@
+'' Base16 Gruvbox dark, soft color 
+'' Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#32302f"  ' ----
+!$BASE01 = "#3c3836"  ' ---
+!$BASE02 = "#504945"  ' --
+!$BASE03 = "#665c54"  ' -
+!$BASE04 = "#bdae93"  ' +
+!$BASE05 = "#d5c4a1"  ' ++
+!$BASE06 = "#ebdbb2"  ' +++
+!$BASE07 = "#fbf1c7"  ' ++++
+!$BASE08 = "#fb4934"  ' red
+!$BASE09 = "#fe8019"  ' orange
+!$BASE0A = "#fabd2f"  ' yellow
+!$BASE0B = "#b8bb26"  ' green
+!$BASE0C = "#8ec07c"  ' aqua/cyan
+!$BASE0D = "#83a598"  ' blue
+!$BASE0E = "#d3869b"  ' purple
+!$BASE0F = "#d65d0e"  ' brown

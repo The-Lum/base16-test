@@ -1,0 +1,20 @@
+'' Base16 Edge Dark color 
+'' Author: cjayross (https://github.com/cjayross)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#262729"  ' ----
+!$BASE01 = "#88909f"  ' ---
+!$BASE02 = "#b7bec9"  ' --
+!$BASE03 = "#3e4249"  ' -
+!$BASE04 = "#73b3e7"  ' +
+!$BASE05 = "#b7bec9"  ' ++
+!$BASE06 = "#d390e7"  ' +++
+!$BASE07 = "#3e4249"  ' ++++
+!$BASE08 = "#e77171"  ' red
+!$BASE09 = "#e77171"  ' orange
+!$BASE0A = "#dbb774"  ' yellow
+!$BASE0B = "#a1bf78"  ' green
+!$BASE0C = "#5ebaa5"  ' aqua/cyan
+!$BASE0D = "#73b3e7"  ' blue
+!$BASE0E = "#d390e7"  ' purple
+!$BASE0F = "#5ebaa5"  ' brown

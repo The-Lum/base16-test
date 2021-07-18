@@ -1,0 +1,20 @@
+'' Base16 Kimber color 
+'' Author: Mishka Nguyen (https://github.com/akhsiM)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#222222"  ' ----
+!$BASE01 = "#313131"  ' ---
+!$BASE02 = "#555D55"  ' --
+!$BASE03 = "#644646"  ' -
+!$BASE04 = "#5A5A5A"  ' +
+!$BASE05 = "#DEDEE7"  ' ++
+!$BASE06 = "#C3C3B4"  ' +++
+!$BASE07 = "#FFFFE6"  ' ++++
+!$BASE08 = "#C88C8C"  ' red
+!$BASE09 = "#476C88"  ' orange
+!$BASE0A = "#D8B56D"  ' yellow
+!$BASE0B = "#99C899"  ' green
+!$BASE0C = "#78B4B4"  ' aqua/cyan
+!$BASE0D = "#537C9C"  ' blue
+!$BASE0E = "#86CACD"  ' purple
+!$BASE0F = "#704F4F"  ' brown

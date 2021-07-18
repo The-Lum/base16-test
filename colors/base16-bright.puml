@@ -1,0 +1,20 @@
+'' Base16 Bright color 
+'' Author: Chris Kempson (http://chriskempson.com)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#000000"  ' ----
+!$BASE01 = "#303030"  ' ---
+!$BASE02 = "#505050"  ' --
+!$BASE03 = "#b0b0b0"  ' -
+!$BASE04 = "#d0d0d0"  ' +
+!$BASE05 = "#e0e0e0"  ' ++
+!$BASE06 = "#f5f5f5"  ' +++
+!$BASE07 = "#ffffff"  ' ++++
+!$BASE08 = "#fb0120"  ' red
+!$BASE09 = "#fc6d24"  ' orange
+!$BASE0A = "#fda331"  ' yellow
+!$BASE0B = "#a1c659"  ' green
+!$BASE0C = "#76c7b7"  ' aqua/cyan
+!$BASE0D = "#6fb3d2"  ' blue
+!$BASE0E = "#d381c3"  ' purple
+!$BASE0F = "#be643c"  ' brown

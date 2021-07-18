@@ -1,0 +1,20 @@
+'' Base16 pinky color 
+'' Author: Benjamin (https://github.com/b3nj5m1n)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#171517"  ' ----
+!$BASE01 = "#1b181b"  ' ---
+!$BASE02 = "#1d1b1d"  ' --
+!$BASE03 = "#383338"  ' -
+!$BASE04 = "#e7dbdb"  ' +
+!$BASE05 = "#f5f5f5"  ' ++
+!$BASE06 = "#ffffff"  ' +++
+!$BASE07 = "#f7f3f7"  ' ++++
+!$BASE08 = "#ffa600"  ' red
+!$BASE09 = "#00ff66"  ' orange
+!$BASE0A = "#20df6c"  ' yellow
+!$BASE0B = "#ff0066"  ' green
+!$BASE0C = "#6600ff"  ' aqua/cyan
+!$BASE0D = "#00ffff"  ' blue
+!$BASE0E = "#007fff"  ' purple
+!$BASE0F = "#df206c"  ' brown

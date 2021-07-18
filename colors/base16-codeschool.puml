@@ -1,0 +1,20 @@
+'' Base16 Codeschool color 
+'' Author: blockloop
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#232c31"  ' ----
+!$BASE01 = "#1c3657"  ' ---
+!$BASE02 = "#2a343a"  ' --
+!$BASE03 = "#3f4944"  ' -
+!$BASE04 = "#84898c"  ' +
+!$BASE05 = "#9ea7a6"  ' ++
+!$BASE06 = "#a7cfa3"  ' +++
+!$BASE07 = "#b5d8f6"  ' ++++
+!$BASE08 = "#2a5491"  ' red
+!$BASE09 = "#43820d"  ' orange
+!$BASE0A = "#a03b1e"  ' yellow
+!$BASE0B = "#237986"  ' green
+!$BASE0C = "#b02f30"  ' aqua/cyan
+!$BASE0D = "#484d79"  ' blue
+!$BASE0E = "#c59820"  ' purple
+!$BASE0F = "#c98344"  ' brown

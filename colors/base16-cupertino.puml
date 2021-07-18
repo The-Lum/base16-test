@@ -1,0 +1,20 @@
+'' Base16 Cupertino color 
+'' Author: Defman21
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#ffffff"  ' ----
+!$BASE01 = "#c0c0c0"  ' ---
+!$BASE02 = "#c0c0c0"  ' --
+!$BASE03 = "#808080"  ' -
+!$BASE04 = "#808080"  ' +
+!$BASE05 = "#404040"  ' ++
+!$BASE06 = "#404040"  ' +++
+!$BASE07 = "#5e5e5e"  ' ++++
+!$BASE08 = "#c41a15"  ' red
+!$BASE09 = "#eb8500"  ' orange
+!$BASE0A = "#826b28"  ' yellow
+!$BASE0B = "#007400"  ' green
+!$BASE0C = "#318495"  ' aqua/cyan
+!$BASE0D = "#0000ff"  ' blue
+!$BASE0E = "#a90d91"  ' purple
+!$BASE0F = "#826b28"  ' brown

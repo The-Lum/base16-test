@@ -1,0 +1,20 @@
+'' Base16 Eva Dim color 
+'' Author: kjakapat (https://github.com/kjakapat)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#2a3b4d"  ' ----
+!$BASE01 = "#3d566f"  ' ---
+!$BASE02 = "#4b6988"  ' --
+!$BASE03 = "#55799c"  ' -
+!$BASE04 = "#7e90a3"  ' +
+!$BASE05 = "#9fa2a6"  ' ++
+!$BASE06 = "#d6d7d9"  ' +++
+!$BASE07 = "#ffffff"  ' ++++
+!$BASE08 = "#c4676c"  ' red
+!$BASE09 = "#ff9966"  ' orange
+!$BASE0A = "#cfd05d"  ' yellow
+!$BASE0B = "#5de561"  ' green
+!$BASE0C = "#4b8f77"  ' aqua/cyan
+!$BASE0D = "#1ae1dc"  ' blue
+!$BASE0E = "#9c6cd3"  ' purple
+!$BASE0F = "#bb64a9"  ' brown

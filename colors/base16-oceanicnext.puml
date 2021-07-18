@@ -1,0 +1,20 @@
+'' Base16 OceanicNext color 
+'' Author: https://github.com/voronianski/oceanic-next-color-scheme
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#1B2B34"  ' ----
+!$BASE01 = "#343D46"  ' ---
+!$BASE02 = "#4F5B66"  ' --
+!$BASE03 = "#65737E"  ' -
+!$BASE04 = "#A7ADBA"  ' +
+!$BASE05 = "#C0C5CE"  ' ++
+!$BASE06 = "#CDD3DE"  ' +++
+!$BASE07 = "#D8DEE9"  ' ++++
+!$BASE08 = "#EC5f67"  ' red
+!$BASE09 = "#F99157"  ' orange
+!$BASE0A = "#FAC863"  ' yellow
+!$BASE0B = "#99C794"  ' green
+!$BASE0C = "#5FB3B3"  ' aqua/cyan
+!$BASE0D = "#6699CC"  ' blue
+!$BASE0E = "#C594C5"  ' purple
+!$BASE0F = "#AB7967"  ' brown

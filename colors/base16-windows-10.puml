@@ -1,0 +1,20 @@
+'' Base16 Windows 10 color 
+'' Author: Fergus Collins (https://github.com/C-Fergus)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#0c0c0c"  ' ----
+!$BASE01 = "#2f2f2f"  ' ---
+!$BASE02 = "#535353"  ' --
+!$BASE03 = "#767676"  ' -
+!$BASE04 = "#b9b9b9"  ' +
+!$BASE05 = "#cccccc"  ' ++
+!$BASE06 = "#dfdfdf"  ' +++
+!$BASE07 = "#f2f2f2"  ' ++++
+!$BASE08 = "#e74856"  ' red
+!$BASE09 = "#c19c00"  ' orange
+!$BASE0A = "#f9f1a5"  ' yellow
+!$BASE0B = "#16c60c"  ' green
+!$BASE0C = "#61d6d6"  ' aqua/cyan
+!$BASE0D = "#3b78ff"  ' blue
+!$BASE0E = "#b4009e"  ' purple
+!$BASE0F = "#13a10e"  ' brown

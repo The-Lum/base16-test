@@ -1,0 +1,20 @@
+'' Base16 Fruit Soda color 
+'' Author: jozip
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#f1ecf1"  ' ----
+!$BASE01 = "#e0dee0"  ' ---
+!$BASE02 = "#d8d5d5"  ' --
+!$BASE03 = "#b5b4b6"  ' -
+!$BASE04 = "#979598"  ' +
+!$BASE05 = "#515151"  ' ++
+!$BASE06 = "#474545"  ' +++
+!$BASE07 = "#2d2c2c"  ' ++++
+!$BASE08 = "#fe3e31"  ' red
+!$BASE09 = "#fe6d08"  ' orange
+!$BASE0A = "#f7e203"  ' yellow
+!$BASE0B = "#47f74c"  ' green
+!$BASE0C = "#0f9cfd"  ' aqua/cyan
+!$BASE0D = "#2931df"  ' blue
+!$BASE0E = "#611fce"  ' purple
+!$BASE0F = "#b16f40"  ' brown

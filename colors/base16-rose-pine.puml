@@ -1,0 +1,20 @@
+'' Base16 Rosé Pine color 
+'' Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#191724"  ' ----
+!$BASE01 = "#1f1d2e"  ' ---
+!$BASE02 = "#26233a"  ' --
+!$BASE03 = "#555169"  ' -
+!$BASE04 = "#6e6a86"  ' +
+!$BASE05 = "#e0def4"  ' ++
+!$BASE06 = "#f0f0f3"  ' +++
+!$BASE07 = "#c5c3ce"  ' ++++
+!$BASE08 = "#e2e1e7"  ' red
+!$BASE09 = "#eb6f92"  ' orange
+!$BASE0A = "#f6c177"  ' yellow
+!$BASE0B = "#ebbcba"  ' green
+!$BASE0C = "#31748f"  ' aqua/cyan
+!$BASE0D = "#9ccfd8"  ' blue
+!$BASE0E = "#c4a7e7"  ' purple
+!$BASE0F = "#e5e5e5"  ' brown

@@ -1,0 +1,20 @@
+'' Base16 Atelier Plateau color 
+'' Author: Bram de Haan (http://atelierbramdehaan.nl)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#1b1818"  ' ----
+!$BASE01 = "#292424"  ' ---
+!$BASE02 = "#585050"  ' --
+!$BASE03 = "#655d5d"  ' -
+!$BASE04 = "#7e7777"  ' +
+!$BASE05 = "#8a8585"  ' ++
+!$BASE06 = "#e7dfdf"  ' +++
+!$BASE07 = "#f4ecec"  ' ++++
+!$BASE08 = "#ca4949"  ' red
+!$BASE09 = "#b45a3c"  ' orange
+!$BASE0A = "#a06e3b"  ' yellow
+!$BASE0B = "#4b8b8b"  ' green
+!$BASE0C = "#5485b6"  ' aqua/cyan
+!$BASE0D = "#7272ca"  ' blue
+!$BASE0E = "#8464c4"  ' purple
+!$BASE0F = "#bd5187"  ' brown

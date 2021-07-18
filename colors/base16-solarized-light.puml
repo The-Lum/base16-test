@@ -1,0 +1,20 @@
+'' Base16 Solarized Light color 
+'' Author: Ethan Schoonover (modified by aramisgithub)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#fdf6e3"  ' ----
+!$BASE01 = "#eee8d5"  ' ---
+!$BASE02 = "#93a1a1"  ' --
+!$BASE03 = "#839496"  ' -
+!$BASE04 = "#657b83"  ' +
+!$BASE05 = "#586e75"  ' ++
+!$BASE06 = "#073642"  ' +++
+!$BASE07 = "#002b36"  ' ++++
+!$BASE08 = "#dc322f"  ' red
+!$BASE09 = "#cb4b16"  ' orange
+!$BASE0A = "#b58900"  ' yellow
+!$BASE0B = "#859900"  ' green
+!$BASE0C = "#2aa198"  ' aqua/cyan
+!$BASE0D = "#268bd2"  ' blue
+!$BASE0E = "#6c71c4"  ' purple
+!$BASE0F = "#d33682"  ' brown

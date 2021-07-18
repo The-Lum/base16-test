@@ -1,0 +1,20 @@
+'' Base16 Atelier Forest Light color 
+'' Author: Bram de Haan (http://atelierbramdehaan.nl)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#f1efee"  ' ----
+!$BASE01 = "#e6e2e0"  ' ---
+!$BASE02 = "#a8a19f"  ' --
+!$BASE03 = "#9c9491"  ' -
+!$BASE04 = "#766e6b"  ' +
+!$BASE05 = "#68615e"  ' ++
+!$BASE06 = "#2c2421"  ' +++
+!$BASE07 = "#1b1918"  ' ++++
+!$BASE08 = "#f22c40"  ' red
+!$BASE09 = "#df5320"  ' orange
+!$BASE0A = "#c38418"  ' yellow
+!$BASE0B = "#7b9726"  ' green
+!$BASE0C = "#3d97b8"  ' aqua/cyan
+!$BASE0D = "#407ee7"  ' blue
+!$BASE0E = "#6666ea"  ' purple
+!$BASE0F = "#c33ff3"  ' brown

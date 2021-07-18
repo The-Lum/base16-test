@@ -1,0 +1,20 @@
+'' Base16 Material Lighter color 
+'' Author: Nate Peterson
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#FAFAFA"  ' ----
+!$BASE01 = "#E7EAEC"  ' ---
+!$BASE02 = "#CCEAE7"  ' --
+!$BASE03 = "#CCD7DA"  ' -
+!$BASE04 = "#8796B0"  ' +
+!$BASE05 = "#80CBC4"  ' ++
+!$BASE06 = "#80CBC4"  ' +++
+!$BASE07 = "#FFFFFF"  ' ++++
+!$BASE08 = "#FF5370"  ' red
+!$BASE09 = "#F76D47"  ' orange
+!$BASE0A = "#FFB62C"  ' yellow
+!$BASE0B = "#91B859"  ' green
+!$BASE0C = "#39ADB5"  ' aqua/cyan
+!$BASE0D = "#6182B8"  ' blue
+!$BASE0E = "#7C4DFF"  ' purple
+!$BASE0F = "#E53935"  ' brown

@@ -1,0 +1,20 @@
+'' Base16 Embers color 
+'' Author: Jannik Siebert (https://github.com/janniks)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#16130F"  ' ----
+!$BASE01 = "#2C2620"  ' ---
+!$BASE02 = "#433B32"  ' --
+!$BASE03 = "#5A5047"  ' -
+!$BASE04 = "#8A8075"  ' +
+!$BASE05 = "#A39A90"  ' ++
+!$BASE06 = "#BEB6AE"  ' +++
+!$BASE07 = "#DBD6D1"  ' ++++
+!$BASE08 = "#826D57"  ' red
+!$BASE09 = "#828257"  ' orange
+!$BASE0A = "#6D8257"  ' yellow
+!$BASE0B = "#57826D"  ' green
+!$BASE0C = "#576D82"  ' aqua/cyan
+!$BASE0D = "#6D5782"  ' blue
+!$BASE0E = "#82576D"  ' purple
+!$BASE0F = "#825757"  ' brown

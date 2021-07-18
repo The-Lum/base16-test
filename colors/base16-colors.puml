@@ -1,0 +1,20 @@
+'' Base16 Colors color 
+'' Author: mrmrs (http://clrs.cc)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#111111"  ' ----
+!$BASE01 = "#333333"  ' ---
+!$BASE02 = "#555555"  ' --
+!$BASE03 = "#777777"  ' -
+!$BASE04 = "#999999"  ' +
+!$BASE05 = "#bbbbbb"  ' ++
+!$BASE06 = "#dddddd"  ' +++
+!$BASE07 = "#ffffff"  ' ++++
+!$BASE08 = "#ff4136"  ' red
+!$BASE09 = "#ff851b"  ' orange
+!$BASE0A = "#ffdc00"  ' yellow
+!$BASE0B = "#2ecc40"  ' green
+!$BASE0C = "#7fdbff"  ' aqua/cyan
+!$BASE0D = "#0074d9"  ' blue
+!$BASE0E = "#b10dc9"  ' purple
+!$BASE0F = "#85144b"  ' brown

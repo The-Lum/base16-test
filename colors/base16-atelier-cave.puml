@@ -1,0 +1,20 @@
+'' Base16 Atelier Cave color 
+'' Author: Bram de Haan (http://atelierbramdehaan.nl)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#19171c"  ' ----
+!$BASE01 = "#26232a"  ' ---
+!$BASE02 = "#585260"  ' --
+!$BASE03 = "#655f6d"  ' -
+!$BASE04 = "#7e7887"  ' +
+!$BASE05 = "#8b8792"  ' ++
+!$BASE06 = "#e2dfe7"  ' +++
+!$BASE07 = "#efecf4"  ' ++++
+!$BASE08 = "#be4678"  ' red
+!$BASE09 = "#aa573c"  ' orange
+!$BASE0A = "#a06e3b"  ' yellow
+!$BASE0B = "#2a9292"  ' green
+!$BASE0C = "#398bc6"  ' aqua/cyan
+!$BASE0D = "#576ddb"  ' blue
+!$BASE0E = "#955ae7"  ' purple
+!$BASE0F = "#bf40bf"  ' brown

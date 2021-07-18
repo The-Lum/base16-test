@@ -1,0 +1,20 @@
+'' Base16 Sakura color 
+'' Author: Misterio77 (http://github.com/Misterio77)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#feedf3"  ' ----
+!$BASE01 = "#f8e2e7"  ' ---
+!$BASE02 = "#e0ccd1"  ' --
+!$BASE03 = "#755f64"  ' -
+!$BASE04 = "#665055"  ' +
+!$BASE05 = "#564448"  ' ++
+!$BASE06 = "#42383a"  ' +++
+!$BASE07 = "#33292b"  ' ++++
+!$BASE08 = "#df2d52"  ' red
+!$BASE09 = "#f6661e"  ' orange
+!$BASE0A = "#c29461"  ' yellow
+!$BASE0B = "#2e916d"  ' green
+!$BASE0C = "#1d8991"  ' aqua/cyan
+!$BASE0D = "#006e93"  ' blue
+!$BASE0E = "#5e2180"  ' purple
+!$BASE0F = "#ba0d35"  ' brown

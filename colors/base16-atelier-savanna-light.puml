@@ -1,0 +1,20 @@
+'' Base16 Atelier Savanna Light color 
+'' Author: Bram de Haan (http://atelierbramdehaan.nl)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#ecf4ee"  ' ----
+!$BASE01 = "#dfe7e2"  ' ---
+!$BASE02 = "#87928a"  ' --
+!$BASE03 = "#78877d"  ' -
+!$BASE04 = "#5f6d64"  ' +
+!$BASE05 = "#526057"  ' ++
+!$BASE06 = "#232a25"  ' +++
+!$BASE07 = "#171c19"  ' ++++
+!$BASE08 = "#b16139"  ' red
+!$BASE09 = "#9f713c"  ' orange
+!$BASE0A = "#a07e3b"  ' yellow
+!$BASE0B = "#489963"  ' green
+!$BASE0C = "#1c9aa0"  ' aqua/cyan
+!$BASE0D = "#478c90"  ' blue
+!$BASE0E = "#55859b"  ' purple
+!$BASE0F = "#867469"  ' brown

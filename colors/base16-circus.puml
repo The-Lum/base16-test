@@ -1,0 +1,20 @@
+'' Base16 Circus color 
+'' Author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#191919"  ' ----
+!$BASE01 = "#202020"  ' ---
+!$BASE02 = "#303030"  ' --
+!$BASE03 = "#5f5a60"  ' -
+!$BASE04 = "#505050"  ' +
+!$BASE05 = "#a7a7a7"  ' ++
+!$BASE06 = "#808080"  ' +++
+!$BASE07 = "#ffffff"  ' ++++
+!$BASE08 = "#dc657d"  ' red
+!$BASE09 = "#4bb1a7"  ' orange
+!$BASE0A = "#c3ba63"  ' yellow
+!$BASE0B = "#84b97c"  ' green
+!$BASE0C = "#4bb1a7"  ' aqua/cyan
+!$BASE0D = "#639ee4"  ' blue
+!$BASE0E = "#b888e2"  ' purple
+!$BASE0F = "#b888e2"  ' brown

@@ -1,0 +1,20 @@
+'' Base16 Bespin color 
+'' Author: Jan T. Sott
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#28211c"  ' ----
+!$BASE01 = "#36312e"  ' ---
+!$BASE02 = "#5e5d5c"  ' --
+!$BASE03 = "#666666"  ' -
+!$BASE04 = "#797977"  ' +
+!$BASE05 = "#8a8986"  ' ++
+!$BASE06 = "#9d9b97"  ' +++
+!$BASE07 = "#baae9e"  ' ++++
+!$BASE08 = "#cf6a4c"  ' red
+!$BASE09 = "#cf7d34"  ' orange
+!$BASE0A = "#f9ee98"  ' yellow
+!$BASE0B = "#54be0d"  ' green
+!$BASE0C = "#afc4db"  ' aqua/cyan
+!$BASE0D = "#5ea6ea"  ' blue
+!$BASE0E = "#9b859d"  ' purple
+!$BASE0F = "#937121"  ' brown

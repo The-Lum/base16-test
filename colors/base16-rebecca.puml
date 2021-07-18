@@ -1,0 +1,20 @@
+'' Base16 Rebecca color 
+'' Author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#292a44"  ' ----
+!$BASE01 = "#663399"  ' ---
+!$BASE02 = "#383a62"  ' --
+!$BASE03 = "#666699"  ' -
+!$BASE04 = "#a0a0c5"  ' +
+!$BASE05 = "#f1eff8"  ' ++
+!$BASE06 = "#ccccff"  ' +++
+!$BASE07 = "#53495d"  ' ++++
+!$BASE08 = "#a0a0c5"  ' red
+!$BASE09 = "#efe4a1"  ' orange
+!$BASE0A = "#ae81ff"  ' yellow
+!$BASE0B = "#6dfedf"  ' green
+!$BASE0C = "#8eaee0"  ' aqua/cyan
+!$BASE0D = "#2de0a7"  ' blue
+!$BASE0E = "#7aa5ff"  ' purple
+!$BASE0F = "#ff79c6"  ' brown

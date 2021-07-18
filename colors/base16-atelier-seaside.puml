@@ -1,0 +1,20 @@
+'' Base16 Atelier Seaside color 
+'' Author: Bram de Haan (http://atelierbramdehaan.nl)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#131513"  ' ----
+!$BASE01 = "#242924"  ' ---
+!$BASE02 = "#5e6e5e"  ' --
+!$BASE03 = "#687d68"  ' -
+!$BASE04 = "#809980"  ' +
+!$BASE05 = "#8ca68c"  ' ++
+!$BASE06 = "#cfe8cf"  ' +++
+!$BASE07 = "#f4fbf4"  ' ++++
+!$BASE08 = "#e6193c"  ' red
+!$BASE09 = "#87711d"  ' orange
+!$BASE0A = "#98981b"  ' yellow
+!$BASE0B = "#29a329"  ' green
+!$BASE0C = "#1999b3"  ' aqua/cyan
+!$BASE0D = "#3d62f5"  ' blue
+!$BASE0E = "#ad2bee"  ' purple
+!$BASE0F = "#e619c3"  ' brown

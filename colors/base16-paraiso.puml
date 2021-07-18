@@ -1,0 +1,20 @@
+'' Base16 Paraiso color 
+'' Author: Jan T. Sott
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#2f1e2e"  ' ----
+!$BASE01 = "#41323f"  ' ---
+!$BASE02 = "#4f424c"  ' --
+!$BASE03 = "#776e71"  ' -
+!$BASE04 = "#8d8687"  ' +
+!$BASE05 = "#a39e9b"  ' ++
+!$BASE06 = "#b9b6b0"  ' +++
+!$BASE07 = "#e7e9db"  ' ++++
+!$BASE08 = "#ef6155"  ' red
+!$BASE09 = "#f99b15"  ' orange
+!$BASE0A = "#fec418"  ' yellow
+!$BASE0B = "#48b685"  ' green
+!$BASE0C = "#5bc4bf"  ' aqua/cyan
+!$BASE0D = "#06b6ef"  ' blue
+!$BASE0E = "#815ba4"  ' purple
+!$BASE0F = "#e96ba8"  ' brown

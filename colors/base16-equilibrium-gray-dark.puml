@@ -1,0 +1,20 @@
+'' Base16 Equilibrium Gray Dark color 
+'' Author: Carlo Abelli
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#111111"  ' ----
+!$BASE01 = "#1b1b1b"  ' ---
+!$BASE02 = "#262626"  ' --
+!$BASE03 = "#777777"  ' -
+!$BASE04 = "#919191"  ' +
+!$BASE05 = "#ababab"  ' ++
+!$BASE06 = "#c6c6c6"  ' +++
+!$BASE07 = "#e2e2e2"  ' ++++
+!$BASE08 = "#f04339"  ' red
+!$BASE09 = "#df5923"  ' orange
+!$BASE0A = "#bb8801"  ' yellow
+!$BASE0B = "#7f8b00"  ' green
+!$BASE0C = "#00948b"  ' aqua/cyan
+!$BASE0D = "#008dd1"  ' blue
+!$BASE0E = "#6a7fd2"  ' purple
+!$BASE0F = "#e3488e"  ' brown

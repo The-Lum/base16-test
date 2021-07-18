@@ -1,0 +1,20 @@
+'' Base16 Qualia color 
+'' Author: isaacwhanson
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#101010"  ' ----
+!$BASE01 = "#454545"  ' ---
+!$BASE02 = "#454545"  ' --
+!$BASE03 = "#454545"  ' -
+!$BASE04 = "#808080"  ' +
+!$BASE05 = "#C0C0C0"  ' ++
+!$BASE06 = "#C0C0C0"  ' +++
+!$BASE07 = "#454545"  ' ++++
+!$BASE08 = "#EFA6A2"  ' red
+!$BASE09 = "#A3B8EF"  ' orange
+!$BASE0A = "#E6A3DC"  ' yellow
+!$BASE0B = "#80C990"  ' green
+!$BASE0C = "#C8C874"  ' aqua/cyan
+!$BASE0D = "#50CACD"  ' blue
+!$BASE0E = "#E0AF85"  ' purple
+!$BASE0F = "#808080"  ' brown

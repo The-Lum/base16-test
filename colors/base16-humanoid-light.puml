@@ -1,0 +1,20 @@
+'' Base16 Humanoid light color 
+'' Author: Thomas (tasmo) Friese
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#f8f8f2"  ' ----
+!$BASE01 = "#efefe9"  ' ---
+!$BASE02 = "#deded8"  ' --
+!$BASE03 = "#c0c0bd"  ' -
+!$BASE04 = "#60615d"  ' +
+!$BASE05 = "#232629"  ' ++
+!$BASE06 = "#2f3337"  ' +++
+!$BASE07 = "#070708"  ' ++++
+!$BASE08 = "#b0151a"  ' red
+!$BASE09 = "#ff3d00"  ' orange
+!$BASE0A = "#ffb627"  ' yellow
+!$BASE0B = "#388e3c"  ' green
+!$BASE0C = "#008e8e"  ' aqua/cyan
+!$BASE0D = "#0082c9"  ' blue
+!$BASE0E = "#700f98"  ' purple
+!$BASE0F = "#b27701"  ' brown

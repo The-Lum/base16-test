@@ -1,0 +1,20 @@
+'' Base16 Grayscale Light color 
+'' Author: Alexandre Gavioli (https://github.com/Alexx2/)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#f7f7f7"  ' ----
+!$BASE01 = "#e3e3e3"  ' ---
+!$BASE02 = "#b9b9b9"  ' --
+!$BASE03 = "#ababab"  ' -
+!$BASE04 = "#525252"  ' +
+!$BASE05 = "#464646"  ' ++
+!$BASE06 = "#252525"  ' +++
+!$BASE07 = "#101010"  ' ++++
+!$BASE08 = "#7c7c7c"  ' red
+!$BASE09 = "#999999"  ' orange
+!$BASE0A = "#a0a0a0"  ' yellow
+!$BASE0B = "#8e8e8e"  ' green
+!$BASE0C = "#868686"  ' aqua/cyan
+!$BASE0D = "#686868"  ' blue
+!$BASE0E = "#747474"  ' purple
+!$BASE0F = "#5e5e5e"  ' brown

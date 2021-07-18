@@ -1,0 +1,20 @@
+'' Base16 Atlas color 
+'' Author: Alex Lende (https://ajlende.com)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#002635"  ' ----
+!$BASE01 = "#00384d"  ' ---
+!$BASE02 = "#517F8D"  ' --
+!$BASE03 = "#6C8B91"  ' -
+!$BASE04 = "#869696"  ' +
+!$BASE05 = "#a1a19a"  ' ++
+!$BASE06 = "#e6e6dc"  ' +++
+!$BASE07 = "#fafaf8"  ' ++++
+!$BASE08 = "#ff5a67"  ' red
+!$BASE09 = "#f08e48"  ' orange
+!$BASE0A = "#ffcc1b"  ' yellow
+!$BASE0B = "#7fc06e"  ' green
+!$BASE0C = "#14747e"  ' aqua/cyan
+!$BASE0D = "#5dd7b9"  ' blue
+!$BASE0E = "#9a70a4"  ' purple
+!$BASE0F = "#c43060"  ' brown

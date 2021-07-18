@@ -1,0 +1,20 @@
+'' Base16 Materia color 
+'' Author: Defman21
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#263238"  ' ----
+!$BASE01 = "#2C393F"  ' ---
+!$BASE02 = "#37474F"  ' --
+!$BASE03 = "#707880"  ' -
+!$BASE04 = "#C9CCD3"  ' +
+!$BASE05 = "#CDD3DE"  ' ++
+!$BASE06 = "#D5DBE5"  ' +++
+!$BASE07 = "#FFFFFF"  ' ++++
+!$BASE08 = "#EC5F67"  ' red
+!$BASE09 = "#EA9560"  ' orange
+!$BASE0A = "#FFCC00"  ' yellow
+!$BASE0B = "#8BD649"  ' green
+!$BASE0C = "#80CBC4"  ' aqua/cyan
+!$BASE0D = "#89DDFF"  ' blue
+!$BASE0E = "#82AAFF"  ' purple
+!$BASE0F = "#EC5F67"  ' brown

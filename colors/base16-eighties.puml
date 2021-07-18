@@ -1,0 +1,20 @@
+'' Base16 Eighties color 
+'' Author: Chris Kempson (http://chriskempson.com)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#2d2d2d"  ' ----
+!$BASE01 = "#393939"  ' ---
+!$BASE02 = "#515151"  ' --
+!$BASE03 = "#747369"  ' -
+!$BASE04 = "#a09f93"  ' +
+!$BASE05 = "#d3d0c8"  ' ++
+!$BASE06 = "#e8e6df"  ' +++
+!$BASE07 = "#f2f0ec"  ' ++++
+!$BASE08 = "#f2777a"  ' red
+!$BASE09 = "#f99157"  ' orange
+!$BASE0A = "#ffcc66"  ' yellow
+!$BASE0B = "#99cc99"  ' green
+!$BASE0C = "#66cccc"  ' aqua/cyan
+!$BASE0D = "#6699cc"  ' blue
+!$BASE0E = "#cc99cc"  ' purple
+!$BASE0F = "#d27b53"  ' brown

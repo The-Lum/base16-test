@@ -1,0 +1,20 @@
+'' Base16 Atelier Heath Light color 
+'' Author: Bram de Haan (http://atelierbramdehaan.nl)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#f7f3f7"  ' ----
+!$BASE01 = "#d8cad8"  ' ---
+!$BASE02 = "#ab9bab"  ' --
+!$BASE03 = "#9e8f9e"  ' -
+!$BASE04 = "#776977"  ' +
+!$BASE05 = "#695d69"  ' ++
+!$BASE06 = "#292329"  ' +++
+!$BASE07 = "#1b181b"  ' ++++
+!$BASE08 = "#ca402b"  ' red
+!$BASE09 = "#a65926"  ' orange
+!$BASE0A = "#bb8a35"  ' yellow
+!$BASE0B = "#918b3b"  ' green
+!$BASE0C = "#159393"  ' aqua/cyan
+!$BASE0D = "#516aec"  ' blue
+!$BASE0E = "#7b59c0"  ' purple
+!$BASE0F = "#cc33cc"  ' brown

@@ -1,0 +1,20 @@
+'' Base16 Shapeshifter color 
+'' Author: Tyler Benziger (http://tybenz.com)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#f9f9f9"  ' ----
+!$BASE01 = "#e0e0e0"  ' ---
+!$BASE02 = "#ababab"  ' --
+!$BASE03 = "#555555"  ' -
+!$BASE04 = "#343434"  ' +
+!$BASE05 = "#102015"  ' ++
+!$BASE06 = "#040404"  ' +++
+!$BASE07 = "#000000"  ' ++++
+!$BASE08 = "#e92f2f"  ' red
+!$BASE09 = "#e09448"  ' orange
+!$BASE0A = "#dddd13"  ' yellow
+!$BASE0B = "#0ed839"  ' green
+!$BASE0C = "#23edda"  ' aqua/cyan
+!$BASE0D = "#3b48e3"  ' blue
+!$BASE0E = "#f996e2"  ' purple
+!$BASE0F = "#69542d"  ' brown

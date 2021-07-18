@@ -1,0 +1,20 @@
+'' Base16 summercamp color 
+'' Author: zoe firi (zoefiri.github.io)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#1c1810"  ' ----
+!$BASE01 = "#2a261c"  ' ---
+!$BASE02 = "#3a3527"  ' --
+!$BASE03 = "#504b38"  ' -
+!$BASE04 = "#5f5b45"  ' +
+!$BASE05 = "#736e55"  ' ++
+!$BASE06 = "#bab696"  ' +++
+!$BASE07 = "#f8f5de"  ' ++++
+!$BASE08 = "#e35142"  ' red
+!$BASE09 = "#fba11b"  ' orange
+!$BASE0A = "#f2ff27"  ' yellow
+!$BASE0B = "#5ceb5a"  ' green
+!$BASE0C = "#5aebbc"  ' aqua/cyan
+!$BASE0D = "#489bf0"  ' blue
+!$BASE0E = "#FF8080"  ' purple
+!$BASE0F = "#F69BE7"  ' brown

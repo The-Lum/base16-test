@@ -1,0 +1,20 @@
+'' Base16 Atelier Sulphurpool color 
+'' Author: Bram de Haan (http://atelierbramdehaan.nl)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#202746"  ' ----
+!$BASE01 = "#293256"  ' ---
+!$BASE02 = "#5e6687"  ' --
+!$BASE03 = "#6b7394"  ' -
+!$BASE04 = "#898ea4"  ' +
+!$BASE05 = "#979db4"  ' ++
+!$BASE06 = "#dfe2f1"  ' +++
+!$BASE07 = "#f5f7ff"  ' ++++
+!$BASE08 = "#c94922"  ' red
+!$BASE09 = "#c76b29"  ' orange
+!$BASE0A = "#c08b30"  ' yellow
+!$BASE0B = "#ac9739"  ' green
+!$BASE0C = "#22a2c9"  ' aqua/cyan
+!$BASE0D = "#3d8fd1"  ' blue
+!$BASE0E = "#6679cc"  ' purple
+!$BASE0F = "#9c637a"  ' brown

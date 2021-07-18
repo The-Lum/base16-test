@@ -1,0 +1,20 @@
+'' Base16 PhD color 
+'' Author: Hennig Hasemann (http://leetless.de/vim.html)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#061229"  ' ----
+!$BASE01 = "#2a3448"  ' ---
+!$BASE02 = "#4d5666"  ' --
+!$BASE03 = "#717885"  ' -
+!$BASE04 = "#9a99a3"  ' +
+!$BASE05 = "#b8bbc2"  ' ++
+!$BASE06 = "#dbdde0"  ' +++
+!$BASE07 = "#ffffff"  ' ++++
+!$BASE08 = "#d07346"  ' red
+!$BASE09 = "#f0a000"  ' orange
+!$BASE0A = "#fbd461"  ' yellow
+!$BASE0B = "#99bf52"  ' green
+!$BASE0C = "#72b9bf"  ' aqua/cyan
+!$BASE0D = "#5299bf"  ' blue
+!$BASE0E = "#9989cc"  ' purple
+!$BASE0F = "#b08060"  ' brown

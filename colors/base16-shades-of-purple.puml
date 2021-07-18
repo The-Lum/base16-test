@@ -1,0 +1,20 @@
+'' Base16 Shades of Purple color 
+'' Author: Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#1e1e3f"  ' ----
+!$BASE01 = "#43d426"  ' ---
+!$BASE02 = "#f1d000"  ' --
+!$BASE03 = "#808080"  ' -
+!$BASE04 = "#6871ff"  ' +
+!$BASE05 = "#c7c7c7"  ' ++
+!$BASE06 = "#ff77ff"  ' +++
+!$BASE07 = "#ffffff"  ' ++++
+!$BASE08 = "#d90429"  ' red
+!$BASE09 = "#f92a1c"  ' orange
+!$BASE0A = "#ffe700"  ' yellow
+!$BASE0B = "#3ad900"  ' green
+!$BASE0C = "#00c5c7"  ' aqua/cyan
+!$BASE0D = "#6943ff"  ' blue
+!$BASE0E = "#ff2c70"  ' purple
+!$BASE0F = "#79e8fb"  ' brown

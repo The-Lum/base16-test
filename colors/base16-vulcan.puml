@@ -1,0 +1,20 @@
+'' Base16 vulcan color 
+'' Author: Andrey Varfolomeev
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#041523"  ' ----
+!$BASE01 = "#122339"  ' ---
+!$BASE02 = "#003552"  ' --
+!$BASE03 = "#7a5759"  ' -
+!$BASE04 = "#6b6977"  ' +
+!$BASE05 = "#5b778c"  ' ++
+!$BASE06 = "#333238"  ' +++
+!$BASE07 = "#214d68"  ' ++++
+!$BASE08 = "#818591"  ' red
+!$BASE09 = "#9198a3"  ' orange
+!$BASE0A = "#adb4b9"  ' yellow
+!$BASE0B = "#977d7c"  ' green
+!$BASE0C = "#977d7c"  ' aqua/cyan
+!$BASE0D = "#977d7c"  ' blue
+!$BASE0E = "#9198a3"  ' purple
+!$BASE0F = "#977d7c"  ' brown

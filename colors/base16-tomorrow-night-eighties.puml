@@ -1,0 +1,20 @@
+'' Base16 Tomorrow Night color 
+'' Author: Chris Kempson (http://chriskempson.com)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#2d2d2d"  ' ----
+!$BASE01 = "#393939"  ' ---
+!$BASE02 = "#515151"  ' --
+!$BASE03 = "#999999"  ' -
+!$BASE04 = "#b4b7b4"  ' +
+!$BASE05 = "#cccccc"  ' ++
+!$BASE06 = "#e0e0e0"  ' +++
+!$BASE07 = "#ffffff"  ' ++++
+!$BASE08 = "#f2777a"  ' red
+!$BASE09 = "#f99157"  ' orange
+!$BASE0A = "#ffcc66"  ' yellow
+!$BASE0B = "#99cc99"  ' green
+!$BASE0C = "#66cccc"  ' aqua/cyan
+!$BASE0D = "#6699cc"  ' blue
+!$BASE0E = "#cc99cc"  ' purple
+!$BASE0F = "#a3685a"  ' brown

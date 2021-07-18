@@ -1,0 +1,20 @@
+'' Base16 Heetch Light color 
+'' Author: Geoffrey Teale (tealeg@gmail.com)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#feffff"  ' ----
+!$BASE01 = "#392551"  ' ---
+!$BASE02 = "#7b6d8b"  ' --
+!$BASE03 = "#9c92a8"  ' -
+!$BASE04 = "#ddd6e5"  ' +
+!$BASE05 = "#5a496e"  ' ++
+!$BASE06 = "#470546"  ' +++
+!$BASE07 = "#190134"  ' ++++
+!$BASE08 = "#27d9d5"  ' red
+!$BASE09 = "#bdb6c5"  ' orange
+!$BASE0A = "#5ba2b6"  ' yellow
+!$BASE0B = "#f80059"  ' green
+!$BASE0C = "#c33678"  ' aqua/cyan
+!$BASE0D = "#47f9f5"  ' blue
+!$BASE0E = "#bd0152"  ' purple
+!$BASE0F = "#dedae2"  ' brown

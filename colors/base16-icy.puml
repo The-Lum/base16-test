@@ -1,0 +1,20 @@
+'' Base16 Icy Dark color 
+'' Author: icyphox (https://icyphox.ga)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#021012"  ' ----
+!$BASE01 = "#031619"  ' ---
+!$BASE02 = "#041f23"  ' --
+!$BASE03 = "#052e34"  ' -
+!$BASE04 = "#064048"  ' +
+!$BASE05 = "#095b67"  ' ++
+!$BASE06 = "#0c7c8c"  ' +++
+!$BASE07 = "#109cb0"  ' ++++
+!$BASE08 = "#16c1d9"  ' red
+!$BASE09 = "#b3ebf2"  ' orange
+!$BASE0A = "#80deea"  ' yellow
+!$BASE0B = "#4dd0e1"  ' green
+!$BASE0C = "#26c6da"  ' aqua/cyan
+!$BASE0D = "#00bcd4"  ' blue
+!$BASE0E = "#00acc1"  ' purple
+!$BASE0F = "#0097a7"  ' brown

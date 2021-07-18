@@ -1,0 +1,20 @@
+'' Base16 Github color 
+'' Author: Defman21
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#ffffff"  ' ----
+!$BASE01 = "#f5f5f5"  ' ---
+!$BASE02 = "#c8c8fa"  ' --
+!$BASE03 = "#969896"  ' -
+!$BASE04 = "#e8e8e8"  ' +
+!$BASE05 = "#333333"  ' ++
+!$BASE06 = "#ffffff"  ' +++
+!$BASE07 = "#ffffff"  ' ++++
+!$BASE08 = "#ed6a43"  ' red
+!$BASE09 = "#0086b3"  ' orange
+!$BASE0A = "#795da3"  ' yellow
+!$BASE0B = "#183691"  ' green
+!$BASE0C = "#183691"  ' aqua/cyan
+!$BASE0D = "#795da3"  ' blue
+!$BASE0E = "#a71d5d"  ' purple
+!$BASE0F = "#333333"  ' brown

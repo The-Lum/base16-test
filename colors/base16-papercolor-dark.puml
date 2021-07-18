@@ -1,0 +1,20 @@
+'' Base16 PaperColor Dark color 
+'' Author: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#1c1c1c"  ' ----
+!$BASE01 = "#af005f"  ' ---
+!$BASE02 = "#5faf00"  ' --
+!$BASE03 = "#d7af5f"  ' -
+!$BASE04 = "#5fafd7"  ' +
+!$BASE05 = "#808080"  ' ++
+!$BASE06 = "#d7875f"  ' +++
+!$BASE07 = "#d0d0d0"  ' ++++
+!$BASE08 = "#585858"  ' red
+!$BASE09 = "#5faf5f"  ' orange
+!$BASE0A = "#afd700"  ' yellow
+!$BASE0B = "#af87d7"  ' green
+!$BASE0C = "#ffaf00"  ' aqua/cyan
+!$BASE0D = "#ff5faf"  ' blue
+!$BASE0E = "#00afaf"  ' purple
+!$BASE0F = "#5f8787"  ' brown

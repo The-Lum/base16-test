@@ -1,0 +1,20 @@
+'' Base16 Hardcore color 
+'' Author: Chris Caller
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#212121"  ' ----
+!$BASE01 = "#303030"  ' ---
+!$BASE02 = "#353535"  ' --
+!$BASE03 = "#4A4A4A"  ' -
+!$BASE04 = "#707070"  ' +
+!$BASE05 = "#cdcdcd"  ' ++
+!$BASE06 = "#e5e5e5"  ' +++
+!$BASE07 = "#ffffff"  ' ++++
+!$BASE08 = "#f92672"  ' red
+!$BASE09 = "#fd971f"  ' orange
+!$BASE0A = "#e6db74"  ' yellow
+!$BASE0B = "#a6e22e"  ' green
+!$BASE0C = "#708387"  ' aqua/cyan
+!$BASE0D = "#66d9ef"  ' blue
+!$BASE0E = "#9e6ffe"  ' purple
+!$BASE0F = "#e8b882"  ' brown

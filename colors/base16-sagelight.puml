@@ -1,0 +1,20 @@
+'' Base16 Sagelight color 
+'' Author: Carter Veldhuizen
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#f8f8f8"  ' ----
+!$BASE01 = "#e8e8e8"  ' ---
+!$BASE02 = "#d8d8d8"  ' --
+!$BASE03 = "#b8b8b8"  ' -
+!$BASE04 = "#585858"  ' +
+!$BASE05 = "#383838"  ' ++
+!$BASE06 = "#282828"  ' +++
+!$BASE07 = "#181818"  ' ++++
+!$BASE08 = "#fa8480"  ' red
+!$BASE09 = "#ffaa61"  ' orange
+!$BASE0A = "#ffdc61"  ' yellow
+!$BASE0B = "#a0d2c8"  ' green
+!$BASE0C = "#a2d6f5"  ' aqua/cyan
+!$BASE0D = "#a0a7d2"  ' blue
+!$BASE0E = "#c8a0d2"  ' purple
+!$BASE0F = "#d2b2a0"  ' brown

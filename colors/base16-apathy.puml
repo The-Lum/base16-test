@@ -1,0 +1,20 @@
+'' Base16 Apathy color 
+'' Author: Jannik Siebert (https://github.com/janniks)
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#031A16"  ' ----
+!$BASE01 = "#0B342D"  ' ---
+!$BASE02 = "#184E45"  ' --
+!$BASE03 = "#2B685E"  ' -
+!$BASE04 = "#5F9C92"  ' +
+!$BASE05 = "#81B5AC"  ' ++
+!$BASE06 = "#A7CEC8"  ' +++
+!$BASE07 = "#D2E7E4"  ' ++++
+!$BASE08 = "#3E9688"  ' red
+!$BASE09 = "#3E7996"  ' orange
+!$BASE0A = "#3E4C96"  ' yellow
+!$BASE0B = "#883E96"  ' green
+!$BASE0C = "#963E4C"  ' aqua/cyan
+!$BASE0D = "#96883E"  ' blue
+!$BASE0E = "#4C963E"  ' purple
+!$BASE0F = "#3E965B"  ' brown

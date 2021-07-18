@@ -1,0 +1,20 @@
+'' Base16 Rosé Pine Moon color 
+'' Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+'' to be use in your PlantUML theme
+
+!$BASE00 = "#232136"  ' ----
+!$BASE01 = "#2a273f"  ' ---
+!$BASE02 = "#393552"  ' --
+!$BASE03 = "#59546d"  ' -
+!$BASE04 = "#817c9c"  ' +
+!$BASE05 = "#e0def4"  ' ++
+!$BASE06 = "#f5f5f7"  ' +++
+!$BASE07 = "#d9d7e1"  ' ++++
+!$BASE08 = "#ecebf0"  ' red
+!$BASE09 = "#eb6f92"  ' orange
+!$BASE0A = "#f6c177"  ' yellow
+!$BASE0B = "#ea9a97"  ' green
+!$BASE0C = "#3e8fb0"  ' aqua/cyan
+!$BASE0D = "#9ccfd8"  ' blue
+!$BASE0E = "#c4a7e7"  ' purple
+!$BASE0F = "#b9b9bc"  ' brown
