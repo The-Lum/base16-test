@@ -18,6 +18,6 @@ build:
 	$(BUILD) build -t ${REPO} -o ${OUTPUT}
 	rm -rf ${THEME_DIR}
 	rm -rf ${COLORS_DIR}
-	mv -f ${OUTPUT}/${TEMPLATE}/${THEME_DIR}/ ${THEME_DIR}/
+	#mv -f ${OUTPUT}/${TEMPLATE}/${THEME_DIR}/ ${THEME_DIR}/
 	mv -f ${OUTPUT}/${TEMPLATE}/${COLORS_DIR}/ ${COLORS_DIR}/
 	rm -rf ${OUTPUT} ${TEMPLATE_DIR}/*/
