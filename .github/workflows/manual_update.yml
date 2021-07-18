@@ -1,0 +1,33 @@
+name: Update the repository with the latest base16 colorschemes
+on:
+  workflow_dispatch:
+    # Inputs the workflow accepts.
+    inputs:
+      name:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Run my actions'
+        # Default value if no value is explicitly provided
+        default: 'hello world'
+        # Input has to be provided for the workflow to run
+        required: true
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+      - name: Upgrade pip
+        run: python -m pip install --upgrade pip
+      - name: Install pybase16
+        run: pip install pybase16-builder
+      - name: Fetch the repository code
+        uses: actions/checkout@v2
+      - name: Run make
+        run: make
+      - name: Commit the changes, if any
+        uses: stefanzweifel/git-auto-commit-action@v4.1.1
+        with:
+          commit_message: Update repository with the latest base16 colorschemes
+          branch: ${{ github.head_ref }}
