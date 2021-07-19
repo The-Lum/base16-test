@@ -2,19 +2,19 @@
 '' Author: arcticicestudio
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#2E3440"  ' ----
-!$BASE01 = "#3B4252"  ' ---
-!$BASE02 = "#434C5E"  ' --
-!$BASE03 = "#4C566A"  ' -
-!$BASE04 = "#D8DEE9"  ' +
-!$BASE05 = "#E5E9F0"  ' ++
-!$BASE06 = "#ECEFF4"  ' +++
-!$BASE07 = "#8FBCBB"  ' ++++
-!$BASE08 = "#BF616A"  ' red
-!$BASE09 = "#D08770"  ' orange
-!$BASE0A = "#EBCB8B"  ' yellow
-!$BASE0B = "#A3BE8C"  ' green
-!$BASE0C = "#88C0D0"  ' aqua/cyan
-!$BASE0D = "#81A1C1"  ' blue
-!$BASE0E = "#B48EAD"  ' purple
-!$BASE0F = "#5E81AC"  ' brown
+!$BASE00 = "#2E3440"  /' ----      '/
+!$BASE01 = "#3B4252"  /' ---       '/
+!$BASE02 = "#434C5E"  /' --        '/
+!$BASE03 = "#4C566A"  /' -         '/
+!$BASE04 = "#D8DEE9"  /' +         '/
+!$BASE05 = "#E5E9F0"  /' ++        '/
+!$BASE06 = "#ECEFF4"  /' +++       '/
+!$BASE07 = "#8FBCBB"  /' ++++      '/
+!$BASE08 = "#BF616A"  /' red       '/
+!$BASE09 = "#D08770"  /' orange    '/
+!$BASE0A = "#EBCB8B"  /' yellow    '/
+!$BASE0B = "#A3BE8C"  /' green     '/
+!$BASE0C = "#88C0D0"  /' aqua/cyan '/
+!$BASE0D = "#81A1C1"  /' blue      '/
+!$BASE0E = "#B48EAD"  /' purple    '/
+!$BASE0F = "#5E81AC"  /' brown     '/

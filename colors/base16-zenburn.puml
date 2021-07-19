@@ -2,19 +2,19 @@
 '' Author: elnawe
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#383838"  ' ----
-!$BASE01 = "#404040"  ' ---
-!$BASE02 = "#606060"  ' --
-!$BASE03 = "#6f6f6f"  ' -
-!$BASE04 = "#808080"  ' +
-!$BASE05 = "#dcdccc"  ' ++
-!$BASE06 = "#c0c0c0"  ' +++
-!$BASE07 = "#ffffff"  ' ++++
-!$BASE08 = "#dca3a3"  ' red
-!$BASE09 = "#dfaf8f"  ' orange
-!$BASE0A = "#e0cf9f"  ' yellow
-!$BASE0B = "#5f7f5f"  ' green
-!$BASE0C = "#93e0e3"  ' aqua/cyan
-!$BASE0D = "#7cb8bb"  ' blue
-!$BASE0E = "#dc8cc3"  ' purple
-!$BASE0F = "#000000"  ' brown
+!$BASE00 = "#383838"  /' ----      '/
+!$BASE01 = "#404040"  /' ---       '/
+!$BASE02 = "#606060"  /' --        '/
+!$BASE03 = "#6f6f6f"  /' -         '/
+!$BASE04 = "#808080"  /' +         '/
+!$BASE05 = "#dcdccc"  /' ++        '/
+!$BASE06 = "#c0c0c0"  /' +++       '/
+!$BASE07 = "#ffffff"  /' ++++      '/
+!$BASE08 = "#dca3a3"  /' red       '/
+!$BASE09 = "#dfaf8f"  /' orange    '/
+!$BASE0A = "#e0cf9f"  /' yellow    '/
+!$BASE0B = "#5f7f5f"  /' green     '/
+!$BASE0C = "#93e0e3"  /' aqua/cyan '/
+!$BASE0D = "#7cb8bb"  /' blue      '/
+!$BASE0E = "#dc8cc3"  /' purple    '/
+!$BASE0F = "#000000"  /' brown     '/

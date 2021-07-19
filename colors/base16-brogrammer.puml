@@ -2,19 +2,19 @@
 '' Author: Vik Ramanujam (http://github.com/piggyslasher)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#1f1f1f"  ' ----
-!$BASE01 = "#f81118"  ' ---
-!$BASE02 = "#2dc55e"  ' --
-!$BASE03 = "#ecba0f"  ' -
-!$BASE04 = "#2a84d2"  ' +
-!$BASE05 = "#4e5ab7"  ' ++
-!$BASE06 = "#1081d6"  ' +++
-!$BASE07 = "#d6dbe5"  ' ++++
-!$BASE08 = "#d6dbe5"  ' red
-!$BASE09 = "#de352e"  ' orange
-!$BASE0A = "#1dd361"  ' yellow
-!$BASE0B = "#f3bd09"  ' green
-!$BASE0C = "#1081d6"  ' aqua/cyan
-!$BASE0D = "#5350b9"  ' blue
-!$BASE0E = "#0f7ddb"  ' purple
-!$BASE0F = "#ffffff"  ' brown
+!$BASE00 = "#1f1f1f"  /' ----      '/
+!$BASE01 = "#f81118"  /' ---       '/
+!$BASE02 = "#2dc55e"  /' --        '/
+!$BASE03 = "#ecba0f"  /' -         '/
+!$BASE04 = "#2a84d2"  /' +         '/
+!$BASE05 = "#4e5ab7"  /' ++        '/
+!$BASE06 = "#1081d6"  /' +++       '/
+!$BASE07 = "#d6dbe5"  /' ++++      '/
+!$BASE08 = "#d6dbe5"  /' red       '/
+!$BASE09 = "#de352e"  /' orange    '/
+!$BASE0A = "#1dd361"  /' yellow    '/
+!$BASE0B = "#f3bd09"  /' green     '/
+!$BASE0C = "#1081d6"  /' aqua/cyan '/
+!$BASE0D = "#5350b9"  /' blue      '/
+!$BASE0E = "#0f7ddb"  /' purple    '/
+!$BASE0F = "#ffffff"  /' brown     '/

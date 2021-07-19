@@ -2,19 +2,19 @@
 '' Author: Chris Kempson (http://chriskempson.com)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#181818"  ' ----
-!$BASE01 = "#282828"  ' ---
-!$BASE02 = "#383838"  ' --
-!$BASE03 = "#585858"  ' -
-!$BASE04 = "#b8b8b8"  ' +
-!$BASE05 = "#d8d8d8"  ' ++
-!$BASE06 = "#e8e8e8"  ' +++
-!$BASE07 = "#f8f8f8"  ' ++++
-!$BASE08 = "#ab4642"  ' red
-!$BASE09 = "#dc9656"  ' orange
-!$BASE0A = "#f7ca88"  ' yellow
-!$BASE0B = "#a1b56c"  ' green
-!$BASE0C = "#86c1b9"  ' aqua/cyan
-!$BASE0D = "#7cafc2"  ' blue
-!$BASE0E = "#ba8baf"  ' purple
-!$BASE0F = "#a16946"  ' brown
+!$BASE00 = "#181818"  /' ----      '/
+!$BASE01 = "#282828"  /' ---       '/
+!$BASE02 = "#383838"  /' --        '/
+!$BASE03 = "#585858"  /' -         '/
+!$BASE04 = "#b8b8b8"  /' +         '/
+!$BASE05 = "#d8d8d8"  /' ++        '/
+!$BASE06 = "#e8e8e8"  /' +++       '/
+!$BASE07 = "#f8f8f8"  /' ++++      '/
+!$BASE08 = "#ab4642"  /' red       '/
+!$BASE09 = "#dc9656"  /' orange    '/
+!$BASE0A = "#f7ca88"  /' yellow    '/
+!$BASE0B = "#a1b56c"  /' green     '/
+!$BASE0C = "#86c1b9"  /' aqua/cyan '/
+!$BASE0D = "#7cafc2"  /' blue      '/
+!$BASE0E = "#ba8baf"  /' purple    '/
+!$BASE0F = "#a16946"  /' brown     '/

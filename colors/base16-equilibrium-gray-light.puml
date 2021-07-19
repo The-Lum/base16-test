@@ -2,19 +2,19 @@
 '' Author: Carlo Abelli
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#f1f1f1"  ' ----
-!$BASE01 = "#e2e2e2"  ' ---
-!$BASE02 = "#d4d4d4"  ' --
-!$BASE03 = "#777777"  ' -
-!$BASE04 = "#5e5e5e"  ' +
-!$BASE05 = "#474747"  ' ++
-!$BASE06 = "#303030"  ' +++
-!$BASE07 = "#1b1b1b"  ' ++++
-!$BASE08 = "#d02023"  ' red
-!$BASE09 = "#bf3e05"  ' orange
-!$BASE0A = "#9d6f00"  ' yellow
-!$BASE0B = "#637200"  ' green
-!$BASE0C = "#007a72"  ' aqua/cyan
-!$BASE0D = "#0073b5"  ' blue
-!$BASE0E = "#4e66b6"  ' purple
-!$BASE0F = "#c42775"  ' brown
+!$BASE00 = "#f1f1f1"  /' ----      '/
+!$BASE01 = "#e2e2e2"  /' ---       '/
+!$BASE02 = "#d4d4d4"  /' --        '/
+!$BASE03 = "#777777"  /' -         '/
+!$BASE04 = "#5e5e5e"  /' +         '/
+!$BASE05 = "#474747"  /' ++        '/
+!$BASE06 = "#303030"  /' +++       '/
+!$BASE07 = "#1b1b1b"  /' ++++      '/
+!$BASE08 = "#d02023"  /' red       '/
+!$BASE09 = "#bf3e05"  /' orange    '/
+!$BASE0A = "#9d6f00"  /' yellow    '/
+!$BASE0B = "#637200"  /' green     '/
+!$BASE0C = "#007a72"  /' aqua/cyan '/
+!$BASE0D = "#0073b5"  /' blue      '/
+!$BASE0E = "#4e66b6"  /' purple    '/
+!$BASE0F = "#c42775"  /' brown     '/

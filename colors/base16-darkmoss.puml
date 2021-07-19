@@ -2,19 +2,19 @@
 '' Author: Gabriel Avanzi (https://github.com/avanzzzi)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#171e1f"  ' ----
-!$BASE01 = "#252c2d"  ' ---
-!$BASE02 = "#373c3d"  ' --
-!$BASE03 = "#555e5f"  ' -
-!$BASE04 = "#818f80"  ' +
-!$BASE05 = "#c7c7a5"  ' ++
-!$BASE06 = "#e3e3c8"  ' +++
-!$BASE07 = "#e1eaef"  ' ++++
-!$BASE08 = "#ff4658"  ' red
-!$BASE09 = "#e6db74"  ' orange
-!$BASE0A = "#fdb11f"  ' yellow
-!$BASE0B = "#499180"  ' green
-!$BASE0C = "#66d9ef"  ' aqua/cyan
-!$BASE0D = "#498091"  ' blue
-!$BASE0E = "#9bc0c8"  ' purple
-!$BASE0F = "#d27b53"  ' brown
+!$BASE00 = "#171e1f"  /' ----      '/
+!$BASE01 = "#252c2d"  /' ---       '/
+!$BASE02 = "#373c3d"  /' --        '/
+!$BASE03 = "#555e5f"  /' -         '/
+!$BASE04 = "#818f80"  /' +         '/
+!$BASE05 = "#c7c7a5"  /' ++        '/
+!$BASE06 = "#e3e3c8"  /' +++       '/
+!$BASE07 = "#e1eaef"  /' ++++      '/
+!$BASE08 = "#ff4658"  /' red       '/
+!$BASE09 = "#e6db74"  /' orange    '/
+!$BASE0A = "#fdb11f"  /' yellow    '/
+!$BASE0B = "#499180"  /' green     '/
+!$BASE0C = "#66d9ef"  /' aqua/cyan '/
+!$BASE0D = "#498091"  /' blue      '/
+!$BASE0E = "#9bc0c8"  /' purple    '/
+!$BASE0F = "#d27b53"  /' brown     '/

@@ -2,19 +2,19 @@
 '' Author: Daniel Pfeifer (http://github.com/purpleKarrot)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#fafafa"  ' ----
-!$BASE01 = "#f0f0f1"  ' ---
-!$BASE02 = "#e5e5e6"  ' --
-!$BASE03 = "#a0a1a7"  ' -
-!$BASE04 = "#696c77"  ' +
-!$BASE05 = "#383a42"  ' ++
-!$BASE06 = "#202227"  ' +++
-!$BASE07 = "#090a0b"  ' ++++
-!$BASE08 = "#ca1243"  ' red
-!$BASE09 = "#d75f00"  ' orange
-!$BASE0A = "#c18401"  ' yellow
-!$BASE0B = "#50a14f"  ' green
-!$BASE0C = "#0184bc"  ' aqua/cyan
-!$BASE0D = "#4078f2"  ' blue
-!$BASE0E = "#a626a4"  ' purple
-!$BASE0F = "#986801"  ' brown
+!$BASE00 = "#fafafa"  /' ----      '/
+!$BASE01 = "#f0f0f1"  /' ---       '/
+!$BASE02 = "#e5e5e6"  /' --        '/
+!$BASE03 = "#a0a1a7"  /' -         '/
+!$BASE04 = "#696c77"  /' +         '/
+!$BASE05 = "#383a42"  /' ++        '/
+!$BASE06 = "#202227"  /' +++       '/
+!$BASE07 = "#090a0b"  /' ++++      '/
+!$BASE08 = "#ca1243"  /' red       '/
+!$BASE09 = "#d75f00"  /' orange    '/
+!$BASE0A = "#c18401"  /' yellow    '/
+!$BASE0B = "#50a14f"  /' green     '/
+!$BASE0C = "#0184bc"  /' aqua/cyan '/
+!$BASE0D = "#4078f2"  /' blue      '/
+!$BASE0E = "#a626a4"  /' purple    '/
+!$BASE0F = "#986801"  /' brown     '/

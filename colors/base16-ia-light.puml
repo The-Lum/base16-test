@@ -2,19 +2,19 @@
 '' Author: iA Inc. (modified by aramisgithub)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#f6f6f6"  ' ----
-!$BASE01 = "#dedede"  ' ---
-!$BASE02 = "#bde5f2"  ' --
-!$BASE03 = "#898989"  ' -
-!$BASE04 = "#767676"  ' +
-!$BASE05 = "#181818"  ' ++
-!$BASE06 = "#e8e8e8"  ' +++
-!$BASE07 = "#f8f8f8"  ' ++++
-!$BASE08 = "#9c5a02"  ' red
-!$BASE09 = "#c43e18"  ' orange
-!$BASE0A = "#c48218"  ' yellow
-!$BASE0B = "#38781c"  ' green
-!$BASE0C = "#2d6bb1"  ' aqua/cyan
-!$BASE0D = "#48bac2"  ' blue
-!$BASE0E = "#a94598"  ' purple
-!$BASE0F = "#8b6c37"  ' brown
+!$BASE00 = "#f6f6f6"  /' ----      '/
+!$BASE01 = "#dedede"  /' ---       '/
+!$BASE02 = "#bde5f2"  /' --        '/
+!$BASE03 = "#898989"  /' -         '/
+!$BASE04 = "#767676"  /' +         '/
+!$BASE05 = "#181818"  /' ++        '/
+!$BASE06 = "#e8e8e8"  /' +++       '/
+!$BASE07 = "#f8f8f8"  /' ++++      '/
+!$BASE08 = "#9c5a02"  /' red       '/
+!$BASE09 = "#c43e18"  /' orange    '/
+!$BASE0A = "#c48218"  /' yellow    '/
+!$BASE0B = "#38781c"  /' green     '/
+!$BASE0C = "#2d6bb1"  /' aqua/cyan '/
+!$BASE0D = "#48bac2"  /' blue      '/
+!$BASE0E = "#a94598"  /' purple    '/
+!$BASE0F = "#8b6c37"  /' brown     '/

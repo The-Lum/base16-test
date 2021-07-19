@@ -2,19 +2,19 @@
 '' Author: Jan T. Sott
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#000000"  ' ----
-!$BASE01 = "#404040"  ' ---
-!$BASE02 = "#606060"  ' --
-!$BASE03 = "#808080"  ' -
-!$BASE04 = "#c0c0c0"  ' +
-!$BASE05 = "#d0d0d0"  ' ++
-!$BASE06 = "#e0e0e0"  ' +++
-!$BASE07 = "#ffffff"  ' ++++
-!$BASE08 = "#ff0000"  ' red
-!$BASE09 = "#ff9900"  ' orange
-!$BASE0A = "#ff0099"  ' yellow
-!$BASE0B = "#33ff00"  ' green
-!$BASE0C = "#00ffff"  ' aqua/cyan
-!$BASE0D = "#0066ff"  ' blue
-!$BASE0E = "#cc00ff"  ' purple
-!$BASE0F = "#3300ff"  ' brown
+!$BASE00 = "#000000"  /' ----      '/
+!$BASE01 = "#404040"  /' ---       '/
+!$BASE02 = "#606060"  /' --        '/
+!$BASE03 = "#808080"  /' -         '/
+!$BASE04 = "#c0c0c0"  /' +         '/
+!$BASE05 = "#d0d0d0"  /' ++        '/
+!$BASE06 = "#e0e0e0"  /' +++       '/
+!$BASE07 = "#ffffff"  /' ++++      '/
+!$BASE08 = "#ff0000"  /' red       '/
+!$BASE09 = "#ff9900"  /' orange    '/
+!$BASE0A = "#ff0099"  /' yellow    '/
+!$BASE0B = "#33ff00"  /' green     '/
+!$BASE0C = "#00ffff"  /' aqua/cyan '/
+!$BASE0D = "#0066ff"  /' blue      '/
+!$BASE0E = "#cc00ff"  /' purple    '/
+!$BASE0F = "#3300ff"  /' brown     '/

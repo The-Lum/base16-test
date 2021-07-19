@@ -2,19 +2,19 @@
 '' Author: Seth Wright (http://sethawright.com)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#ffffff"  ' ----
-!$BASE01 = "#e0e0e0"  ' ---
-!$BASE02 = "#c5c8c6"  ' --
-!$BASE03 = "#b4b7b4"  ' -
-!$BASE04 = "#969896"  ' +
-!$BASE05 = "#373b41"  ' ++
-!$BASE06 = "#282a2e"  ' +++
-!$BASE07 = "#1d1f21"  ' ++++
-!$BASE08 = "#CC342B"  ' red
-!$BASE09 = "#F96A38"  ' orange
-!$BASE0A = "#FBA922"  ' yellow
-!$BASE0B = "#198844"  ' green
-!$BASE0C = "#3971ED"  ' aqua/cyan
-!$BASE0D = "#3971ED"  ' blue
-!$BASE0E = "#A36AC7"  ' purple
-!$BASE0F = "#3971ED"  ' brown
+!$BASE00 = "#ffffff"  /' ----      '/
+!$BASE01 = "#e0e0e0"  /' ---       '/
+!$BASE02 = "#c5c8c6"  /' --        '/
+!$BASE03 = "#b4b7b4"  /' -         '/
+!$BASE04 = "#969896"  /' +         '/
+!$BASE05 = "#373b41"  /' ++        '/
+!$BASE06 = "#282a2e"  /' +++       '/
+!$BASE07 = "#1d1f21"  /' ++++      '/
+!$BASE08 = "#CC342B"  /' red       '/
+!$BASE09 = "#F96A38"  /' orange    '/
+!$BASE0A = "#FBA922"  /' yellow    '/
+!$BASE0B = "#198844"  /' green     '/
+!$BASE0C = "#3971ED"  /' aqua/cyan '/
+!$BASE0D = "#3971ED"  /' blue      '/
+!$BASE0E = "#A36AC7"  /' purple    '/
+!$BASE0F = "#3971ED"  /' brown     '/

@@ -2,19 +2,19 @@
 '' Author: Ethan Schoonover (modified by aramisgithub)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#002b36"  ' ----
-!$BASE01 = "#073642"  ' ---
-!$BASE02 = "#586e75"  ' --
-!$BASE03 = "#657b83"  ' -
-!$BASE04 = "#839496"  ' +
-!$BASE05 = "#93a1a1"  ' ++
-!$BASE06 = "#eee8d5"  ' +++
-!$BASE07 = "#fdf6e3"  ' ++++
-!$BASE08 = "#dc322f"  ' red
-!$BASE09 = "#cb4b16"  ' orange
-!$BASE0A = "#b58900"  ' yellow
-!$BASE0B = "#859900"  ' green
-!$BASE0C = "#2aa198"  ' aqua/cyan
-!$BASE0D = "#268bd2"  ' blue
-!$BASE0E = "#6c71c4"  ' purple
-!$BASE0F = "#d33682"  ' brown
+!$BASE00 = "#002b36"  /' ----      '/
+!$BASE01 = "#073642"  /' ---       '/
+!$BASE02 = "#586e75"  /' --        '/
+!$BASE03 = "#657b83"  /' -         '/
+!$BASE04 = "#839496"  /' +         '/
+!$BASE05 = "#93a1a1"  /' ++        '/
+!$BASE06 = "#eee8d5"  /' +++       '/
+!$BASE07 = "#fdf6e3"  /' ++++      '/
+!$BASE08 = "#dc322f"  /' red       '/
+!$BASE09 = "#cb4b16"  /' orange    '/
+!$BASE0A = "#b58900"  /' yellow    '/
+!$BASE0B = "#859900"  /' green     '/
+!$BASE0C = "#2aa198"  /' aqua/cyan '/
+!$BASE0D = "#268bd2"  /' blue      '/
+!$BASE0E = "#6c71c4"  /' purple    '/
+!$BASE0F = "#d33682"  /' brown     '/

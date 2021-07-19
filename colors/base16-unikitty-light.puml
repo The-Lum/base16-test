@@ -2,19 +2,19 @@
 '' Author: Josh W Lewis (@joshwlewis)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#ffffff"  ' ----
-!$BASE01 = "#e1e1e2"  ' ---
-!$BASE02 = "#c4c3c5"  ' --
-!$BASE03 = "#a7a5a8"  ' -
-!$BASE04 = "#89878b"  ' +
-!$BASE05 = "#6c696e"  ' ++
-!$BASE06 = "#4f4b51"  ' +++
-!$BASE07 = "#322d34"  ' ++++
-!$BASE08 = "#d8137f"  ' red
-!$BASE09 = "#d65407"  ' orange
-!$BASE0A = "#dc8a0e"  ' yellow
-!$BASE0B = "#17ad98"  ' green
-!$BASE0C = "#149bda"  ' aqua/cyan
-!$BASE0D = "#775dff"  ' blue
-!$BASE0E = "#aa17e6"  ' purple
-!$BASE0F = "#e013d0"  ' brown
+!$BASE00 = "#ffffff"  /' ----      '/
+!$BASE01 = "#e1e1e2"  /' ---       '/
+!$BASE02 = "#c4c3c5"  /' --        '/
+!$BASE03 = "#a7a5a8"  /' -         '/
+!$BASE04 = "#89878b"  /' +         '/
+!$BASE05 = "#6c696e"  /' ++        '/
+!$BASE06 = "#4f4b51"  /' +++       '/
+!$BASE07 = "#322d34"  /' ++++      '/
+!$BASE08 = "#d8137f"  /' red       '/
+!$BASE09 = "#d65407"  /' orange    '/
+!$BASE0A = "#dc8a0e"  /' yellow    '/
+!$BASE0B = "#17ad98"  /' green     '/
+!$BASE0C = "#149bda"  /' aqua/cyan '/
+!$BASE0D = "#775dff"  /' blue      '/
+!$BASE0E = "#aa17e6"  /' purple    '/
+!$BASE0F = "#e013d0"  /' brown     '/

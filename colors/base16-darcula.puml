@@ -2,19 +2,19 @@
 '' Author: jetbrains
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#2b2b2b"  ' ----
-!$BASE01 = "#323232"  ' ---
-!$BASE02 = "#323232"  ' --
-!$BASE03 = "#606366"  ' -
-!$BASE04 = "#a4a3a3"  ' +
-!$BASE05 = "#a9b7c6"  ' ++
-!$BASE06 = "#ffc66d"  ' +++
-!$BASE07 = "#ffffff"  ' ++++
-!$BASE08 = "#4eade5"  ' red
-!$BASE09 = "#689757"  ' orange
-!$BASE0A = "#bbb529"  ' yellow
-!$BASE0B = "#6a8759"  ' green
-!$BASE0C = "#629755"  ' aqua/cyan
-!$BASE0D = "#9876aa"  ' blue
-!$BASE0E = "#cc7832"  ' purple
-!$BASE0F = "#808080"  ' brown
+!$BASE00 = "#2b2b2b"  /' ----      '/
+!$BASE01 = "#323232"  /' ---       '/
+!$BASE02 = "#323232"  /' --        '/
+!$BASE03 = "#606366"  /' -         '/
+!$BASE04 = "#a4a3a3"  /' +         '/
+!$BASE05 = "#a9b7c6"  /' ++        '/
+!$BASE06 = "#ffc66d"  /' +++       '/
+!$BASE07 = "#ffffff"  /' ++++      '/
+!$BASE08 = "#4eade5"  /' red       '/
+!$BASE09 = "#689757"  /' orange    '/
+!$BASE0A = "#bbb529"  /' yellow    '/
+!$BASE0B = "#6a8759"  /' green     '/
+!$BASE0C = "#629755"  /' aqua/cyan '/
+!$BASE0D = "#9876aa"  /' blue      '/
+!$BASE0E = "#cc7832"  /' purple    '/
+!$BASE0F = "#808080"  /' brown     '/

@@ -2,19 +2,19 @@
 '' Author: Bram de Haan (http://atelierbramdehaan.nl)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#f4fbf4"  ' ----
-!$BASE01 = "#cfe8cf"  ' ---
-!$BASE02 = "#8ca68c"  ' --
-!$BASE03 = "#809980"  ' -
-!$BASE04 = "#687d68"  ' +
-!$BASE05 = "#5e6e5e"  ' ++
-!$BASE06 = "#242924"  ' +++
-!$BASE07 = "#131513"  ' ++++
-!$BASE08 = "#e6193c"  ' red
-!$BASE09 = "#87711d"  ' orange
-!$BASE0A = "#98981b"  ' yellow
-!$BASE0B = "#29a329"  ' green
-!$BASE0C = "#1999b3"  ' aqua/cyan
-!$BASE0D = "#3d62f5"  ' blue
-!$BASE0E = "#ad2bee"  ' purple
-!$BASE0F = "#e619c3"  ' brown
+!$BASE00 = "#f4fbf4"  /' ----      '/
+!$BASE01 = "#cfe8cf"  /' ---       '/
+!$BASE02 = "#8ca68c"  /' --        '/
+!$BASE03 = "#809980"  /' -         '/
+!$BASE04 = "#687d68"  /' +         '/
+!$BASE05 = "#5e6e5e"  /' ++        '/
+!$BASE06 = "#242924"  /' +++       '/
+!$BASE07 = "#131513"  /' ++++      '/
+!$BASE08 = "#e6193c"  /' red       '/
+!$BASE09 = "#87711d"  /' orange    '/
+!$BASE0A = "#98981b"  /' yellow    '/
+!$BASE0B = "#29a329"  /' green     '/
+!$BASE0C = "#1999b3"  /' aqua/cyan '/
+!$BASE0D = "#3d62f5"  /' blue      '/
+!$BASE0E = "#ad2bee"  /' purple    '/
+!$BASE0F = "#e619c3"  /' brown     '/

@@ -2,19 +2,19 @@
 '' Author: Jan T. Sott
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#231f20"  ' ----
-!$BASE01 = "#1c3f95"  ' ---
-!$BASE02 = "#5a5758"  ' --
-!$BASE03 = "#737171"  ' -
-!$BASE04 = "#959ca1"  ' +
-!$BASE05 = "#d9d8d8"  ' ++
-!$BASE06 = "#e7e7e8"  ' +++
-!$BASE07 = "#ffffff"  ' ++++
-!$BASE08 = "#ee2e24"  ' red
-!$BASE09 = "#f386a1"  ' orange
-!$BASE0A = "#ffd204"  ' yellow
-!$BASE0B = "#00853e"  ' green
-!$BASE0C = "#85cebc"  ' aqua/cyan
-!$BASE0D = "#009ddc"  ' blue
-!$BASE0E = "#98005d"  ' purple
-!$BASE0F = "#b06110"  ' brown
+!$BASE00 = "#231f20"  /' ----      '/
+!$BASE01 = "#1c3f95"  /' ---       '/
+!$BASE02 = "#5a5758"  /' --        '/
+!$BASE03 = "#737171"  /' -         '/
+!$BASE04 = "#959ca1"  /' +         '/
+!$BASE05 = "#d9d8d8"  /' ++        '/
+!$BASE06 = "#e7e7e8"  /' +++       '/
+!$BASE07 = "#ffffff"  /' ++++      '/
+!$BASE08 = "#ee2e24"  /' red       '/
+!$BASE09 = "#f386a1"  /' orange    '/
+!$BASE0A = "#ffd204"  /' yellow    '/
+!$BASE0B = "#00853e"  /' green     '/
+!$BASE0C = "#85cebc"  /' aqua/cyan '/
+!$BASE0D = "#009ddc"  /' blue      '/
+!$BASE0E = "#98005d"  /' purple    '/
+!$BASE0F = "#b06110"  /' brown     '/

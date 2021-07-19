@@ -2,19 +2,19 @@
 '' Author: Alex Mirrington (https://github.com/alexmirrington)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#2d2d2d"  ' ----
-!$BASE01 = "#393939"  ' ---
-!$BASE02 = "#515151"  ' --
-!$BASE03 = "#777777"  ' -
-!$BASE04 = "#b4b7b4"  ' +
-!$BASE05 = "#cccccc"  ' ++
-!$BASE06 = "#e0e0e0"  ' +++
-!$BASE07 = "#ffffff"  ' ++++
-!$BASE08 = "#ff7f7b"  ' red
-!$BASE09 = "#ffbf70"  ' orange
-!$BASE0A = "#ffd67c"  ' yellow
-!$BASE0B = "#beda78"  ' green
-!$BASE0C = "#bed6ff"  ' aqua/cyan
-!$BASE0D = "#90bee1"  ' blue
-!$BASE0E = "#efb3f7"  ' purple
-!$BASE0F = "#ff93b3"  ' brown
+!$BASE00 = "#2d2d2d"  /' ----      '/
+!$BASE01 = "#393939"  /' ---       '/
+!$BASE02 = "#515151"  /' --        '/
+!$BASE03 = "#777777"  /' -         '/
+!$BASE04 = "#b4b7b4"  /' +         '/
+!$BASE05 = "#cccccc"  /' ++        '/
+!$BASE06 = "#e0e0e0"  /' +++       '/
+!$BASE07 = "#ffffff"  /' ++++      '/
+!$BASE08 = "#ff7f7b"  /' red       '/
+!$BASE09 = "#ffbf70"  /' orange    '/
+!$BASE0A = "#ffd67c"  /' yellow    '/
+!$BASE0B = "#beda78"  /' green     '/
+!$BASE0C = "#bed6ff"  /' aqua/cyan '/
+!$BASE0D = "#90bee1"  /' blue      '/
+!$BASE0E = "#efb3f7"  /' purple    '/
+!$BASE0F = "#ff93b3"  /' brown     '/

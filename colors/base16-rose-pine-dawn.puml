@@ -2,19 +2,19 @@
 '' Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#faf4ed"  ' ----
-!$BASE01 = "#fffaf3"  ' ---
-!$BASE02 = "#f2e9de"  ' --
-!$BASE03 = "#9893a5"  ' -
-!$BASE04 = "#6e6a86"  ' +
-!$BASE05 = "#575279"  ' ++
-!$BASE06 = "#555169"  ' +++
-!$BASE07 = "#26233a"  ' ++++
-!$BASE08 = "#1f1d2e"  ' red
-!$BASE09 = "#b4637a"  ' orange
-!$BASE0A = "#ea9d34"  ' yellow
-!$BASE0B = "#d7827e"  ' green
-!$BASE0C = "#286983"  ' aqua/cyan
-!$BASE0D = "#56949f"  ' blue
-!$BASE0E = "#907aa9"  ' purple
-!$BASE0F = "#c5c3ce"  ' brown
+!$BASE00 = "#faf4ed"  /' ----      '/
+!$BASE01 = "#fffaf3"  /' ---       '/
+!$BASE02 = "#f2e9de"  /' --        '/
+!$BASE03 = "#9893a5"  /' -         '/
+!$BASE04 = "#6e6a86"  /' +         '/
+!$BASE05 = "#575279"  /' ++        '/
+!$BASE06 = "#555169"  /' +++       '/
+!$BASE07 = "#26233a"  /' ++++      '/
+!$BASE08 = "#1f1d2e"  /' red       '/
+!$BASE09 = "#b4637a"  /' orange    '/
+!$BASE0A = "#ea9d34"  /' yellow    '/
+!$BASE0B = "#d7827e"  /' green     '/
+!$BASE0C = "#286983"  /' aqua/cyan '/
+!$BASE0D = "#56949f"  /' blue      '/
+!$BASE0E = "#907aa9"  /' purple    '/
+!$BASE0F = "#c5c3ce"  /' brown     '/

@@ -2,19 +2,19 @@
 '' Author: Alexandre Gavioli (http://github.com/Alexx2/)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#201602"  ' ----
-!$BASE01 = "#302e00"  ' ---
-!$BASE02 = "#5f5b17"  ' --
-!$BASE03 = "#6c6823"  ' -
-!$BASE04 = "#86813b"  ' +
-!$BASE05 = "#948e48"  ' ++
-!$BASE06 = "#ccc37a"  ' +++
-!$BASE07 = "#faf0a5"  ' ++++
-!$BASE08 = "#c35359"  ' red
-!$BASE09 = "#b36144"  ' orange
-!$BASE0A = "#a88339"  ' yellow
-!$BASE0B = "#18974e"  ' green
-!$BASE0C = "#75a738"  ' aqua/cyan
-!$BASE0D = "#477ca1"  ' blue
-!$BASE0E = "#8868b3"  ' purple
-!$BASE0F = "#b3588e"  ' brown
+!$BASE00 = "#201602"  /' ----      '/
+!$BASE01 = "#302e00"  /' ---       '/
+!$BASE02 = "#5f5b17"  /' --        '/
+!$BASE03 = "#6c6823"  /' -         '/
+!$BASE04 = "#86813b"  /' +         '/
+!$BASE05 = "#948e48"  /' ++        '/
+!$BASE06 = "#ccc37a"  /' +++       '/
+!$BASE07 = "#faf0a5"  /' ++++      '/
+!$BASE08 = "#c35359"  /' red       '/
+!$BASE09 = "#b36144"  /' orange    '/
+!$BASE0A = "#a88339"  /' yellow    '/
+!$BASE0B = "#18974e"  /' green     '/
+!$BASE0C = "#75a738"  /' aqua/cyan '/
+!$BASE0D = "#477ca1"  /' blue      '/
+!$BASE0E = "#8868b3"  /' purple    '/
+!$BASE0F = "#b3588e"  /' brown     '/

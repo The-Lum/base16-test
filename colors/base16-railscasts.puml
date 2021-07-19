@@ -2,19 +2,19 @@
 '' Author: Ryan Bates (http://railscasts.com)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#2b2b2b"  ' ----
-!$BASE01 = "#272935"  ' ---
-!$BASE02 = "#3a4055"  ' --
-!$BASE03 = "#5a647e"  ' -
-!$BASE04 = "#d4cfc9"  ' +
-!$BASE05 = "#e6e1dc"  ' ++
-!$BASE06 = "#f4f1ed"  ' +++
-!$BASE07 = "#f9f7f3"  ' ++++
-!$BASE08 = "#da4939"  ' red
-!$BASE09 = "#cc7833"  ' orange
-!$BASE0A = "#ffc66d"  ' yellow
-!$BASE0B = "#a5c261"  ' green
-!$BASE0C = "#519f50"  ' aqua/cyan
-!$BASE0D = "#6d9cbe"  ' blue
-!$BASE0E = "#b6b3eb"  ' purple
-!$BASE0F = "#bc9458"  ' brown
+!$BASE00 = "#2b2b2b"  /' ----      '/
+!$BASE01 = "#272935"  /' ---       '/
+!$BASE02 = "#3a4055"  /' --        '/
+!$BASE03 = "#5a647e"  /' -         '/
+!$BASE04 = "#d4cfc9"  /' +         '/
+!$BASE05 = "#e6e1dc"  /' ++        '/
+!$BASE06 = "#f4f1ed"  /' +++       '/
+!$BASE07 = "#f9f7f3"  /' ++++      '/
+!$BASE08 = "#da4939"  /' red       '/
+!$BASE09 = "#cc7833"  /' orange    '/
+!$BASE0A = "#ffc66d"  /' yellow    '/
+!$BASE0B = "#a5c261"  /' green     '/
+!$BASE0C = "#519f50"  /' aqua/cyan '/
+!$BASE0D = "#6d9cbe"  /' blue      '/
+!$BASE0E = "#b6b3eb"  /' purple    '/
+!$BASE0F = "#bc9458"  /' brown     '/

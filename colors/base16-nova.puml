@@ -2,19 +2,19 @@
 '' Author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#3C4C55"  ' ----
-!$BASE01 = "#556873"  ' ---
-!$BASE02 = "#6A7D89"  ' --
-!$BASE03 = "#899BA6"  ' -
-!$BASE04 = "#899BA6"  ' +
-!$BASE05 = "#C5D4DD"  ' ++
-!$BASE06 = "#899BA6"  ' +++
-!$BASE07 = "#556873"  ' ++++
-!$BASE08 = "#83AFE5"  ' red
-!$BASE09 = "#7FC1CA"  ' orange
-!$BASE0A = "#A8CE93"  ' yellow
-!$BASE0B = "#7FC1CA"  ' green
-!$BASE0C = "#F2C38F"  ' aqua/cyan
-!$BASE0D = "#83AFE5"  ' blue
-!$BASE0E = "#9A93E1"  ' purple
-!$BASE0F = "#F2C38F"  ' brown
+!$BASE00 = "#3C4C55"  /' ----      '/
+!$BASE01 = "#556873"  /' ---       '/
+!$BASE02 = "#6A7D89"  /' --        '/
+!$BASE03 = "#899BA6"  /' -         '/
+!$BASE04 = "#899BA6"  /' +         '/
+!$BASE05 = "#C5D4DD"  /' ++        '/
+!$BASE06 = "#899BA6"  /' +++       '/
+!$BASE07 = "#556873"  /' ++++      '/
+!$BASE08 = "#83AFE5"  /' red       '/
+!$BASE09 = "#7FC1CA"  /' orange    '/
+!$BASE0A = "#A8CE93"  /' yellow    '/
+!$BASE0B = "#7FC1CA"  /' green     '/
+!$BASE0C = "#F2C38F"  /' aqua/cyan '/
+!$BASE0D = "#83AFE5"  /' blue      '/
+!$BASE0E = "#9A93E1"  /' purple    '/
+!$BASE0F = "#F2C38F"  /' brown     '/

@@ -2,19 +2,19 @@
 '' Author: Rebecca Bettencourt (http://www.kreativekorp.com)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#000000"  ' ----
-!$BASE01 = "#404040"  ' ---
-!$BASE02 = "#404040"  ' --
-!$BASE03 = "#808080"  ' -
-!$BASE04 = "#808080"  ' +
-!$BASE05 = "#c0c0c0"  ' ++
-!$BASE06 = "#c0c0c0"  ' +++
-!$BASE07 = "#ffffff"  ' ++++
-!$BASE08 = "#dd0907"  ' red
-!$BASE09 = "#ff6403"  ' orange
-!$BASE0A = "#fbf305"  ' yellow
-!$BASE0B = "#1fb714"  ' green
-!$BASE0C = "#02abea"  ' aqua/cyan
-!$BASE0D = "#0000d3"  ' blue
-!$BASE0E = "#4700a5"  ' purple
-!$BASE0F = "#90713a"  ' brown
+!$BASE00 = "#000000"  /' ----      '/
+!$BASE01 = "#404040"  /' ---       '/
+!$BASE02 = "#404040"  /' --        '/
+!$BASE03 = "#808080"  /' -         '/
+!$BASE04 = "#808080"  /' +         '/
+!$BASE05 = "#c0c0c0"  /' ++        '/
+!$BASE06 = "#c0c0c0"  /' +++       '/
+!$BASE07 = "#ffffff"  /' ++++      '/
+!$BASE08 = "#dd0907"  /' red       '/
+!$BASE09 = "#ff6403"  /' orange    '/
+!$BASE0A = "#fbf305"  /' yellow    '/
+!$BASE0B = "#1fb714"  /' green     '/
+!$BASE0C = "#02abea"  /' aqua/cyan '/
+!$BASE0D = "#0000d3"  /' blue      '/
+!$BASE0E = "#4700a5"  /' purple    '/
+!$BASE0F = "#90713a"  /' brown     '/

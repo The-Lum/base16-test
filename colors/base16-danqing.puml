@@ -2,19 +2,19 @@
 '' Author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#2d302f"  ' ----
-!$BASE01 = "#434846"  ' ---
-!$BASE02 = "#5a605d"  ' --
-!$BASE03 = "#9da8a3"  ' -
-!$BASE04 = "#cad8d2"  ' +
-!$BASE05 = "#e0f0eF"  ' ++
-!$BASE06 = "#ecf6f2"  ' +++
-!$BASE07 = "#fcfefd"  ' ++++
-!$BASE08 = "#F9906F"  ' red
-!$BASE09 = "#B38A61"  ' orange
-!$BASE0A = "#F0C239"  ' yellow
-!$BASE0B = "#8AB361"  ' green
-!$BASE0C = "#30DFF3"  ' aqua/cyan
-!$BASE0D = "#B0A4E3"  ' blue
-!$BASE0E = "#CCA4E3"  ' purple
-!$BASE0F = "#CA6924"  ' brown
+!$BASE00 = "#2d302f"  /' ----      '/
+!$BASE01 = "#434846"  /' ---       '/
+!$BASE02 = "#5a605d"  /' --        '/
+!$BASE03 = "#9da8a3"  /' -         '/
+!$BASE04 = "#cad8d2"  /' +         '/
+!$BASE05 = "#e0f0eF"  /' ++        '/
+!$BASE06 = "#ecf6f2"  /' +++       '/
+!$BASE07 = "#fcfefd"  /' ++++      '/
+!$BASE08 = "#F9906F"  /' red       '/
+!$BASE09 = "#B38A61"  /' orange    '/
+!$BASE0A = "#F0C239"  /' yellow    '/
+!$BASE0B = "#8AB361"  /' green     '/
+!$BASE0C = "#30DFF3"  /' aqua/cyan '/
+!$BASE0D = "#B0A4E3"  /' blue      '/
+!$BASE0E = "#CCA4E3"  /' purple    '/
+!$BASE0F = "#CA6924"  /' brown     '/

@@ -2,19 +2,19 @@
 '' Author: Hugo Delahousse (http://github.com/hugodelahousse/)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#00002A"  ' ----
-!$BASE01 = "#20204A"  ' ---
-!$BASE02 = "#30305A"  ' --
-!$BASE03 = "#50507A"  ' -
-!$BASE04 = "#B0B0DA"  ' +
-!$BASE05 = "#D0D0FA"  ' ++
-!$BASE06 = "#E0E0FF"  ' +++
-!$BASE07 = "#F5F5FF"  ' ++++
-!$BASE08 = "#FF4242"  ' red
-!$BASE09 = "#FC8D28"  ' orange
-!$BASE0A = "#F3E877"  ' yellow
-!$BASE0B = "#59F176"  ' green
-!$BASE0C = "#0EF0F0"  ' aqua/cyan
-!$BASE0D = "#66B0FF"  ' blue
-!$BASE0E = "#F10596"  ' purple
-!$BASE0F = "#F003EF"  ' brown
+!$BASE00 = "#00002A"  /' ----      '/
+!$BASE01 = "#20204A"  /' ---       '/
+!$BASE02 = "#30305A"  /' --        '/
+!$BASE03 = "#50507A"  /' -         '/
+!$BASE04 = "#B0B0DA"  /' +         '/
+!$BASE05 = "#D0D0FA"  /' ++        '/
+!$BASE06 = "#E0E0FF"  /' +++       '/
+!$BASE07 = "#F5F5FF"  /' ++++      '/
+!$BASE08 = "#FF4242"  /' red       '/
+!$BASE09 = "#FC8D28"  /' orange    '/
+!$BASE0A = "#F3E877"  /' yellow    '/
+!$BASE0B = "#59F176"  /' green     '/
+!$BASE0C = "#0EF0F0"  /' aqua/cyan '/
+!$BASE0D = "#66B0FF"  /' blue      '/
+!$BASE0E = "#F10596"  /' purple    '/
+!$BASE0F = "#F003EF"  /' brown     '/

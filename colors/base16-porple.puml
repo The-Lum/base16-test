@@ -2,19 +2,19 @@
 '' Author: Niek den Breeje (https://github.com/AuditeMarlow)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#292c36"  ' ----
-!$BASE01 = "#333344"  ' ---
-!$BASE02 = "#474160"  ' --
-!$BASE03 = "#65568a"  ' -
-!$BASE04 = "#b8b8b8"  ' +
-!$BASE05 = "#d8d8d8"  ' ++
-!$BASE06 = "#e8e8e8"  ' +++
-!$BASE07 = "#f8f8f8"  ' ++++
-!$BASE08 = "#f84547"  ' red
-!$BASE09 = "#d28e5d"  ' orange
-!$BASE0A = "#efa16b"  ' yellow
-!$BASE0B = "#95c76f"  ' green
-!$BASE0C = "#64878f"  ' aqua/cyan
-!$BASE0D = "#8485ce"  ' blue
-!$BASE0E = "#b74989"  ' purple
-!$BASE0F = "#986841"  ' brown
+!$BASE00 = "#292c36"  /' ----      '/
+!$BASE01 = "#333344"  /' ---       '/
+!$BASE02 = "#474160"  /' --        '/
+!$BASE03 = "#65568a"  /' -         '/
+!$BASE04 = "#b8b8b8"  /' +         '/
+!$BASE05 = "#d8d8d8"  /' ++        '/
+!$BASE06 = "#e8e8e8"  /' +++       '/
+!$BASE07 = "#f8f8f8"  /' ++++      '/
+!$BASE08 = "#f84547"  /' red       '/
+!$BASE09 = "#d28e5d"  /' orange    '/
+!$BASE0A = "#efa16b"  /' yellow    '/
+!$BASE0B = "#95c76f"  /' green     '/
+!$BASE0C = "#64878f"  /' aqua/cyan '/
+!$BASE0D = "#8485ce"  /' blue      '/
+!$BASE0E = "#b74989"  /' purple    '/
+!$BASE0F = "#986841"  /' brown     '/

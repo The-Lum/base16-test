@@ -2,19 +2,19 @@
 '' Author: Kahlil (Kal) Hodgson
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#e0e0e0"  ' ----
-!$BASE01 = "#d0dad0"  ' ---
-!$BASE02 = "#d0d0d0"  ' --
-!$BASE03 = "#707070"  ' -
-!$BASE04 = "#202020"  ' +
-!$BASE05 = "#000000"  ' ++
-!$BASE06 = "#f8f8f8"  ' +++
-!$BASE07 = "#c4d9c4"  ' ++++
-!$BASE08 = "#840000"  ' red
-!$BASE09 = "#006565"  ' orange
-!$BASE0A = "#755B00"  ' yellow
-!$BASE0B = "#730073"  ' green
-!$BASE0C = "#755B00"  ' aqua/cyan
-!$BASE0D = "#007300"  ' blue
-!$BASE0E = "#000090"  ' purple
-!$BASE0F = "#755B00"  ' brown
+!$BASE00 = "#e0e0e0"  /' ----      '/
+!$BASE01 = "#d0dad0"  /' ---       '/
+!$BASE02 = "#d0d0d0"  /' --        '/
+!$BASE03 = "#707070"  /' -         '/
+!$BASE04 = "#202020"  /' +         '/
+!$BASE05 = "#000000"  /' ++        '/
+!$BASE06 = "#f8f8f8"  /' +++       '/
+!$BASE07 = "#c4d9c4"  /' ++++      '/
+!$BASE08 = "#840000"  /' red       '/
+!$BASE09 = "#006565"  /' orange    '/
+!$BASE0A = "#755B00"  /' yellow    '/
+!$BASE0B = "#730073"  /' green     '/
+!$BASE0C = "#755B00"  /' aqua/cyan '/
+!$BASE0D = "#007300"  /' blue      '/
+!$BASE0E = "#000090"  /' purple    '/
+!$BASE0F = "#755B00"  /' brown     '/

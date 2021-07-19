@@ -2,19 +2,19 @@
 '' Author: Lalit Magant (http://github.com/tilal6991)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#282c34"  ' ----
-!$BASE01 = "#353b45"  ' ---
-!$BASE02 = "#3e4451"  ' --
-!$BASE03 = "#545862"  ' -
-!$BASE04 = "#565c64"  ' +
-!$BASE05 = "#abb2bf"  ' ++
-!$BASE06 = "#b6bdca"  ' +++
-!$BASE07 = "#c8ccd4"  ' ++++
-!$BASE08 = "#e06c75"  ' red
-!$BASE09 = "#d19a66"  ' orange
-!$BASE0A = "#e5c07b"  ' yellow
-!$BASE0B = "#98c379"  ' green
-!$BASE0C = "#56b6c2"  ' aqua/cyan
-!$BASE0D = "#61afef"  ' blue
-!$BASE0E = "#c678dd"  ' purple
-!$BASE0F = "#be5046"  ' brown
+!$BASE00 = "#282c34"  /' ----      '/
+!$BASE01 = "#353b45"  /' ---       '/
+!$BASE02 = "#3e4451"  /' --        '/
+!$BASE03 = "#545862"  /' -         '/
+!$BASE04 = "#565c64"  /' +         '/
+!$BASE05 = "#abb2bf"  /' ++        '/
+!$BASE06 = "#b6bdca"  /' +++       '/
+!$BASE07 = "#c8ccd4"  /' ++++      '/
+!$BASE08 = "#e06c75"  /' red       '/
+!$BASE09 = "#d19a66"  /' orange    '/
+!$BASE0A = "#e5c07b"  /' yellow    '/
+!$BASE0B = "#98c379"  /' green     '/
+!$BASE0C = "#56b6c2"  /' aqua/cyan '/
+!$BASE0D = "#61afef"  /' blue      '/
+!$BASE0E = "#c678dd"  /' purple    '/
+!$BASE0F = "#be5046"  /' brown     '/

@@ -2,19 +2,19 @@
 '' Author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#282828"  ' ----
-!$BASE01 = "#383838"  ' ---
-!$BASE02 = "#484848"  ' --
-!$BASE03 = "#1d1d1d"  ' -
-!$BASE04 = "#b8b8b8"  ' +
-!$BASE05 = "#eeeeee"  ' ++
-!$BASE06 = "#e8e8e8"  ' +++
-!$BASE07 = "#ffffff"  ' ++++
-!$BASE08 = "#f43753"  ' red
-!$BASE09 = "#dc9656"  ' orange
-!$BASE0A = "#ffc24b"  ' yellow
-!$BASE0B = "#c9d05c"  ' green
-!$BASE0C = "#73cef4"  ' aqua/cyan
-!$BASE0D = "#b3deef"  ' blue
-!$BASE0E = "#d3b987"  ' purple
-!$BASE0F = "#a16946"  ' brown
+!$BASE00 = "#282828"  /' ----      '/
+!$BASE01 = "#383838"  /' ---       '/
+!$BASE02 = "#484848"  /' --        '/
+!$BASE03 = "#1d1d1d"  /' -         '/
+!$BASE04 = "#b8b8b8"  /' +         '/
+!$BASE05 = "#eeeeee"  /' ++        '/
+!$BASE06 = "#e8e8e8"  /' +++       '/
+!$BASE07 = "#ffffff"  /' ++++      '/
+!$BASE08 = "#f43753"  /' red       '/
+!$BASE09 = "#dc9656"  /' orange    '/
+!$BASE0A = "#ffc24b"  /' yellow    '/
+!$BASE0B = "#c9d05c"  /' green     '/
+!$BASE0C = "#73cef4"  /' aqua/cyan '/
+!$BASE0D = "#b3deef"  /' blue      '/
+!$BASE0E = "#d3b987"  /' purple    '/
+!$BASE0F = "#a16946"  /' brown     '/

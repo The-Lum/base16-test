@@ -2,19 +2,19 @@
 '' Author: Framer (Maintained by Jesse Hoyos)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#181818"  ' ----
-!$BASE01 = "#151515"  ' ---
-!$BASE02 = "#464646"  ' --
-!$BASE03 = "#747474"  ' -
-!$BASE04 = "#B9B9B9"  ' +
-!$BASE05 = "#D0D0D0"  ' ++
-!$BASE06 = "#E8E8E8"  ' +++
-!$BASE07 = "#EEEEEE"  ' ++++
-!$BASE08 = "#FD886B"  ' red
-!$BASE09 = "#FC4769"  ' orange
-!$BASE0A = "#FECB6E"  ' yellow
-!$BASE0B = "#32CCDC"  ' green
-!$BASE0C = "#ACDDFD"  ' aqua/cyan
-!$BASE0D = "#20BCFC"  ' blue
-!$BASE0E = "#BA8CFC"  ' purple
-!$BASE0F = "#B15F4A"  ' brown
+!$BASE00 = "#181818"  /' ----      '/
+!$BASE01 = "#151515"  /' ---       '/
+!$BASE02 = "#464646"  /' --        '/
+!$BASE03 = "#747474"  /' -         '/
+!$BASE04 = "#B9B9B9"  /' +         '/
+!$BASE05 = "#D0D0D0"  /' ++        '/
+!$BASE06 = "#E8E8E8"  /' +++       '/
+!$BASE07 = "#EEEEEE"  /' ++++      '/
+!$BASE08 = "#FD886B"  /' red       '/
+!$BASE09 = "#FC4769"  /' orange    '/
+!$BASE0A = "#FECB6E"  /' yellow    '/
+!$BASE0B = "#32CCDC"  /' green     '/
+!$BASE0C = "#ACDDFD"  /' aqua/cyan '/
+!$BASE0D = "#20BCFC"  /' blue      '/
+!$BASE0E = "#BA8CFC"  /' purple    '/
+!$BASE0F = "#B15F4A"  /' brown     '/

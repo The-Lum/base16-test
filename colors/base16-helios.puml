@@ -2,19 +2,19 @@
 '' Author: Alex Meyer (https://github.com/reyemxela)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#1d2021"  ' ----
-!$BASE01 = "#383c3e"  ' ---
-!$BASE02 = "#53585b"  ' --
-!$BASE03 = "#6f7579"  ' -
-!$BASE04 = "#cdcdcd"  ' +
-!$BASE05 = "#d5d5d5"  ' ++
-!$BASE06 = "#dddddd"  ' +++
-!$BASE07 = "#e5e5e5"  ' ++++
-!$BASE08 = "#d72638"  ' red
-!$BASE09 = "#eb8413"  ' orange
-!$BASE0A = "#f19d1a"  ' yellow
-!$BASE0B = "#88b92d"  ' green
-!$BASE0C = "#1ba595"  ' aqua/cyan
-!$BASE0D = "#1e8bac"  ' blue
-!$BASE0E = "#be4264"  ' purple
-!$BASE0F = "#c85e0d"  ' brown
+!$BASE00 = "#1d2021"  /' ----      '/
+!$BASE01 = "#383c3e"  /' ---       '/
+!$BASE02 = "#53585b"  /' --        '/
+!$BASE03 = "#6f7579"  /' -         '/
+!$BASE04 = "#cdcdcd"  /' +         '/
+!$BASE05 = "#d5d5d5"  /' ++        '/
+!$BASE06 = "#dddddd"  /' +++       '/
+!$BASE07 = "#e5e5e5"  /' ++++      '/
+!$BASE08 = "#d72638"  /' red       '/
+!$BASE09 = "#eb8413"  /' orange    '/
+!$BASE0A = "#f19d1a"  /' yellow    '/
+!$BASE0B = "#88b92d"  /' green     '/
+!$BASE0C = "#1ba595"  /' aqua/cyan '/
+!$BASE0D = "#1e8bac"  /' blue      '/
+!$BASE0E = "#be4264"  /' purple    '/
+!$BASE0F = "#c85e0d"  /' brown     '/

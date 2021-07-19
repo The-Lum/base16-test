@@ -2,19 +2,19 @@
 '' Author: Sheldon Johnson
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#f8f8f8"  ' ----
-!$BASE01 = "#e8e8e8"  ' ---
-!$BASE02 = "#d8d8d8"  ' --
-!$BASE03 = "#b8b8b8"  ' -
-!$BASE04 = "#585858"  ' +
-!$BASE05 = "#383838"  ' ++
-!$BASE06 = "#282828"  ' +++
-!$BASE07 = "#181818"  ' ++++
-!$BASE08 = "#ab4642"  ' red
-!$BASE09 = "#dc9656"  ' orange
-!$BASE0A = "#f79a0e"  ' yellow
-!$BASE0B = "#538947"  ' green
-!$BASE0C = "#4b8093"  ' aqua/cyan
-!$BASE0D = "#7cafc2"  ' blue
-!$BASE0E = "#96609e"  ' purple
-!$BASE0F = "#a16946"  ' brown
+!$BASE00 = "#f8f8f8"  /' ----      '/
+!$BASE01 = "#e8e8e8"  /' ---       '/
+!$BASE02 = "#d8d8d8"  /' --        '/
+!$BASE03 = "#b8b8b8"  /' -         '/
+!$BASE04 = "#585858"  /' +         '/
+!$BASE05 = "#383838"  /' ++        '/
+!$BASE06 = "#282828"  /' +++       '/
+!$BASE07 = "#181818"  /' ++++      '/
+!$BASE08 = "#ab4642"  /' red       '/
+!$BASE09 = "#dc9656"  /' orange    '/
+!$BASE0A = "#f79a0e"  /' yellow    '/
+!$BASE0B = "#538947"  /' green     '/
+!$BASE0C = "#4b8093"  /' aqua/cyan '/
+!$BASE0D = "#7cafc2"  /' blue      '/
+!$BASE0E = "#96609e"  /' purple    '/
+!$BASE0F = "#a16946"  /' brown     '/

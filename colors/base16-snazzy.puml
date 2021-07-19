@@ -2,19 +2,19 @@
 '' Author: Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#282a36"  ' ----
-!$BASE01 = "#34353e"  ' ---
-!$BASE02 = "#43454f"  ' --
-!$BASE03 = "#78787e"  ' -
-!$BASE04 = "#a5a5a9"  ' +
-!$BASE05 = "#e2e4e5"  ' ++
-!$BASE06 = "#eff0eb"  ' +++
-!$BASE07 = "#f1f1f0"  ' ++++
-!$BASE08 = "#ff5c57"  ' red
-!$BASE09 = "#ff9f43"  ' orange
-!$BASE0A = "#f3f99d"  ' yellow
-!$BASE0B = "#5af78e"  ' green
-!$BASE0C = "#9aedfe"  ' aqua/cyan
-!$BASE0D = "#57c7ff"  ' blue
-!$BASE0E = "#ff6ac1"  ' purple
-!$BASE0F = "#b2643c"  ' brown
+!$BASE00 = "#282a36"  /' ----      '/
+!$BASE01 = "#34353e"  /' ---       '/
+!$BASE02 = "#43454f"  /' --        '/
+!$BASE03 = "#78787e"  /' -         '/
+!$BASE04 = "#a5a5a9"  /' +         '/
+!$BASE05 = "#e2e4e5"  /' ++        '/
+!$BASE06 = "#eff0eb"  /' +++       '/
+!$BASE07 = "#f1f1f0"  /' ++++      '/
+!$BASE08 = "#ff5c57"  /' red       '/
+!$BASE09 = "#ff9f43"  /' orange    '/
+!$BASE0A = "#f3f99d"  /' yellow    '/
+!$BASE0B = "#5af78e"  /' green     '/
+!$BASE0C = "#9aedfe"  /' aqua/cyan '/
+!$BASE0D = "#57c7ff"  /' blue      '/
+!$BASE0E = "#ff6ac1"  /' purple    '/
+!$BASE0F = "#b2643c"  /' brown     '/

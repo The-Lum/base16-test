@@ -2,19 +2,19 @@
 '' Author: metalelf0 (https://github.com/metalelf0)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#000000"  ' ----
-!$BASE01 = "#121212"  ' ---
-!$BASE02 = "#222222"  ' --
-!$BASE03 = "#333333"  ' -
-!$BASE04 = "#999999"  ' +
-!$BASE05 = "#c1c1c1"  ' ++
-!$BASE06 = "#999999"  ' +++
-!$BASE07 = "#c1c1c1"  ' ++++
-!$BASE08 = "#5f8787"  ' red
-!$BASE09 = "#aaaaaa"  ' orange
-!$BASE0A = "#777755"  ' yellow
-!$BASE0B = "#aa9988"  ' green
-!$BASE0C = "#aaaaaa"  ' aqua/cyan
-!$BASE0D = "#888888"  ' blue
-!$BASE0E = "#999999"  ' purple
-!$BASE0F = "#444444"  ' brown
+!$BASE00 = "#000000"  /' ----      '/
+!$BASE01 = "#121212"  /' ---       '/
+!$BASE02 = "#222222"  /' --        '/
+!$BASE03 = "#333333"  /' -         '/
+!$BASE04 = "#999999"  /' +         '/
+!$BASE05 = "#c1c1c1"  /' ++        '/
+!$BASE06 = "#999999"  /' +++       '/
+!$BASE07 = "#c1c1c1"  /' ++++      '/
+!$BASE08 = "#5f8787"  /' red       '/
+!$BASE09 = "#aaaaaa"  /' orange    '/
+!$BASE0A = "#777755"  /' yellow    '/
+!$BASE0B = "#aa9988"  /' green     '/
+!$BASE0C = "#aaaaaa"  /' aqua/cyan '/
+!$BASE0D = "#888888"  /' blue      '/
+!$BASE0E = "#999999"  /' purple    '/
+!$BASE0F = "#444444"  /' brown     '/

@@ -2,19 +2,19 @@
 '' Author: Timothée Poisot (http://github.com/tpoisot)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#0c0d0e"  ' ----
-!$BASE01 = "#2e2f30"  ' ---
-!$BASE02 = "#515253"  ' --
-!$BASE03 = "#737475"  ' -
-!$BASE04 = "#959697"  ' +
-!$BASE05 = "#b7b8b9"  ' ++
-!$BASE06 = "#dadbdc"  ' +++
-!$BASE07 = "#fcfdfe"  ' ++++
-!$BASE08 = "#e31a1c"  ' red
-!$BASE09 = "#e6550d"  ' orange
-!$BASE0A = "#dca060"  ' yellow
-!$BASE0B = "#31a354"  ' green
-!$BASE0C = "#80b1d3"  ' aqua/cyan
-!$BASE0D = "#3182bd"  ' blue
-!$BASE0E = "#756bb1"  ' purple
-!$BASE0F = "#b15928"  ' brown
+!$BASE00 = "#0c0d0e"  /' ----      '/
+!$BASE01 = "#2e2f30"  /' ---       '/
+!$BASE02 = "#515253"  /' --        '/
+!$BASE03 = "#737475"  /' -         '/
+!$BASE04 = "#959697"  /' +         '/
+!$BASE05 = "#b7b8b9"  /' ++        '/
+!$BASE06 = "#dadbdc"  /' +++       '/
+!$BASE07 = "#fcfdfe"  /' ++++      '/
+!$BASE08 = "#e31a1c"  /' red       '/
+!$BASE09 = "#e6550d"  /' orange    '/
+!$BASE0A = "#dca060"  /' yellow    '/
+!$BASE0B = "#31a354"  /' green     '/
+!$BASE0C = "#80b1d3"  /' aqua/cyan '/
+!$BASE0D = "#3182bd"  /' blue      '/
+!$BASE0E = "#756bb1"  /' purple    '/
+!$BASE0F = "#b15928"  /' brown     '/

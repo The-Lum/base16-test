@@ -2,19 +2,19 @@
 '' Author: Nate Peterson
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#263238"  ' ----
-!$BASE01 = "#2E3C43"  ' ---
-!$BASE02 = "#314549"  ' --
-!$BASE03 = "#546E7A"  ' -
-!$BASE04 = "#B2CCD6"  ' +
-!$BASE05 = "#EEFFFF"  ' ++
-!$BASE06 = "#EEFFFF"  ' +++
-!$BASE07 = "#FFFFFF"  ' ++++
-!$BASE08 = "#F07178"  ' red
-!$BASE09 = "#F78C6C"  ' orange
-!$BASE0A = "#FFCB6B"  ' yellow
-!$BASE0B = "#C3E88D"  ' green
-!$BASE0C = "#89DDFF"  ' aqua/cyan
-!$BASE0D = "#82AAFF"  ' blue
-!$BASE0E = "#C792EA"  ' purple
-!$BASE0F = "#FF5370"  ' brown
+!$BASE00 = "#263238"  /' ----      '/
+!$BASE01 = "#2E3C43"  /' ---       '/
+!$BASE02 = "#314549"  /' --        '/
+!$BASE03 = "#546E7A"  /' -         '/
+!$BASE04 = "#B2CCD6"  /' +         '/
+!$BASE05 = "#EEFFFF"  /' ++        '/
+!$BASE06 = "#EEFFFF"  /' +++       '/
+!$BASE07 = "#FFFFFF"  /' ++++      '/
+!$BASE08 = "#F07178"  /' red       '/
+!$BASE09 = "#F78C6C"  /' orange    '/
+!$BASE0A = "#FFCB6B"  /' yellow    '/
+!$BASE0B = "#C3E88D"  /' green     '/
+!$BASE0C = "#89DDFF"  /' aqua/cyan '/
+!$BASE0D = "#82AAFF"  /' blue      '/
+!$BASE0E = "#C792EA"  /' purple    '/
+!$BASE0F = "#FF5370"  /' brown     '/

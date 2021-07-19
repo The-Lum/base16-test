@@ -2,19 +2,19 @@
 '' Author: Michaël Ball (http://github.com/michael-ball/)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#FDF0ED"  ' ----
-!$BASE01 = "#FADAD1"  ' ---
-!$BASE02 = "#F9CBBE"  ' --
-!$BASE03 = "#BDB3B1"  ' -
-!$BASE04 = "#948C8A"  ' +
-!$BASE05 = "#403C3D"  ' ++
-!$BASE06 = "#302C2D"  ' +++
-!$BASE07 = "#201C1D"  ' ++++
-!$BASE08 = "#E95678"  ' red
-!$BASE09 = "#F9CEC3"  ' orange
-!$BASE0A = "#FADAD1"  ' yellow
-!$BASE0B = "#29D398"  ' green
-!$BASE0C = "#59E1E3"  ' aqua/cyan
-!$BASE0D = "#26BBD9"  ' blue
-!$BASE0E = "#EE64AC"  ' purple
-!$BASE0F = "#F9CBBE"  ' brown
+!$BASE00 = "#FDF0ED"  /' ----      '/
+!$BASE01 = "#FADAD1"  /' ---       '/
+!$BASE02 = "#F9CBBE"  /' --        '/
+!$BASE03 = "#BDB3B1"  /' -         '/
+!$BASE04 = "#948C8A"  /' +         '/
+!$BASE05 = "#403C3D"  /' ++        '/
+!$BASE06 = "#302C2D"  /' +++       '/
+!$BASE07 = "#201C1D"  /' ++++      '/
+!$BASE08 = "#E95678"  /' red       '/
+!$BASE09 = "#F9CEC3"  /' orange    '/
+!$BASE0A = "#FADAD1"  /' yellow    '/
+!$BASE0B = "#29D398"  /' green     '/
+!$BASE0C = "#59E1E3"  /' aqua/cyan '/
+!$BASE0D = "#26BBD9"  /' blue      '/
+!$BASE0E = "#EE64AC"  /' purple    '/
+!$BASE0F = "#F9CBBE"  /' brown     '/

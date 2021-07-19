@@ -2,19 +2,19 @@
 '' Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#f2e5bc"  ' ----
-!$BASE01 = "#ebdbb2"  ' ---
-!$BASE02 = "#d5c4a1"  ' --
-!$BASE03 = "#bdae93"  ' -
-!$BASE04 = "#665c54"  ' +
-!$BASE05 = "#504945"  ' ++
-!$BASE06 = "#3c3836"  ' +++
-!$BASE07 = "#282828"  ' ++++
-!$BASE08 = "#9d0006"  ' red
-!$BASE09 = "#af3a03"  ' orange
-!$BASE0A = "#b57614"  ' yellow
-!$BASE0B = "#79740e"  ' green
-!$BASE0C = "#427b58"  ' aqua/cyan
-!$BASE0D = "#076678"  ' blue
-!$BASE0E = "#8f3f71"  ' purple
-!$BASE0F = "#d65d0e"  ' brown
+!$BASE00 = "#f2e5bc"  /' ----      '/
+!$BASE01 = "#ebdbb2"  /' ---       '/
+!$BASE02 = "#d5c4a1"  /' --        '/
+!$BASE03 = "#bdae93"  /' -         '/
+!$BASE04 = "#665c54"  /' +         '/
+!$BASE05 = "#504945"  /' ++        '/
+!$BASE06 = "#3c3836"  /' +++       '/
+!$BASE07 = "#282828"  /' ++++      '/
+!$BASE08 = "#9d0006"  /' red       '/
+!$BASE09 = "#af3a03"  /' orange    '/
+!$BASE0A = "#b57614"  /' yellow    '/
+!$BASE0B = "#79740e"  /' green     '/
+!$BASE0C = "#427b58"  /' aqua/cyan '/
+!$BASE0D = "#076678"  /' blue      '/
+!$BASE0E = "#8f3f71"  /' purple    '/
+!$BASE0F = "#d65d0e"  /' brown     '/

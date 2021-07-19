@@ -2,19 +2,19 @@
 '' Author: David Hart (https://github.com/hartbit)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#1e1e1e"  ' ----
-!$BASE01 = "#323537"  ' ---
-!$BASE02 = "#464b50"  ' --
-!$BASE03 = "#5f5a60"  ' -
-!$BASE04 = "#838184"  ' +
-!$BASE05 = "#a7a7a7"  ' ++
-!$BASE06 = "#c3c3c3"  ' +++
-!$BASE07 = "#ffffff"  ' ++++
-!$BASE08 = "#cf6a4c"  ' red
-!$BASE09 = "#cda869"  ' orange
-!$BASE0A = "#f9ee98"  ' yellow
-!$BASE0B = "#8f9d6a"  ' green
-!$BASE0C = "#afc4db"  ' aqua/cyan
-!$BASE0D = "#7587a6"  ' blue
-!$BASE0E = "#9b859d"  ' purple
-!$BASE0F = "#9b703f"  ' brown
+!$BASE00 = "#1e1e1e"  /' ----      '/
+!$BASE01 = "#323537"  /' ---       '/
+!$BASE02 = "#464b50"  /' --        '/
+!$BASE03 = "#5f5a60"  /' -         '/
+!$BASE04 = "#838184"  /' +         '/
+!$BASE05 = "#a7a7a7"  /' ++        '/
+!$BASE06 = "#c3c3c3"  /' +++       '/
+!$BASE07 = "#ffffff"  /' ++++      '/
+!$BASE08 = "#cf6a4c"  /' red       '/
+!$BASE09 = "#cda869"  /' orange    '/
+!$BASE0A = "#f9ee98"  /' yellow    '/
+!$BASE0B = "#8f9d6a"  /' green     '/
+!$BASE0C = "#afc4db"  /' aqua/cyan '/
+!$BASE0D = "#7587a6"  /' blue      '/
+!$BASE0E = "#9b859d"  /' purple    '/
+!$BASE0F = "#9b703f"  /' brown     '/

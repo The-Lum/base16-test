@@ -2,19 +2,19 @@
 '' Author: Elsa Gonsiorowski (https://github.com/gonsie)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#282B35"  ' ----
-!$BASE01 = "#3D4048"  ' ---
-!$BASE02 = "#53555D"  ' --
-!$BASE03 = "#686A71"  ' -
-!$BASE04 = "#7E8086"  ' +
-!$BASE05 = "#939599"  ' ++
-!$BASE06 = "#A9AAAE"  ' +++
-!$BASE07 = "#BEBFC2"  ' ++++
-!$BASE08 = "#B21889"  ' red
-!$BASE09 = "#786DC5"  ' orange
-!$BASE0A = "#438288"  ' yellow
-!$BASE0B = "#DF0002"  ' green
-!$BASE0C = "#00A0BE"  ' aqua/cyan
-!$BASE0D = "#790EAD"  ' blue
-!$BASE0E = "#B21889"  ' purple
-!$BASE0F = "#C77C48"  ' brown
+!$BASE00 = "#282B35"  /' ----      '/
+!$BASE01 = "#3D4048"  /' ---       '/
+!$BASE02 = "#53555D"  /' --        '/
+!$BASE03 = "#686A71"  /' -         '/
+!$BASE04 = "#7E8086"  /' +         '/
+!$BASE05 = "#939599"  /' ++        '/
+!$BASE06 = "#A9AAAE"  /' +++       '/
+!$BASE07 = "#BEBFC2"  /' ++++      '/
+!$BASE08 = "#B21889"  /' red       '/
+!$BASE09 = "#786DC5"  /' orange    '/
+!$BASE0A = "#438288"  /' yellow    '/
+!$BASE0B = "#DF0002"  /' green     '/
+!$BASE0C = "#00A0BE"  /' aqua/cyan '/
+!$BASE0D = "#790EAD"  /' blue      '/
+!$BASE0E = "#B21889"  /' purple    '/
+!$BASE0F = "#C77C48"  /' brown     '/

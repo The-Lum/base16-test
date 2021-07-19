@@ -2,19 +2,19 @@
 '' Author: Abraham White &lt;abelincoln.white@gmail.com&gt;
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#E3EFEF"  ' ----
-!$BASE01 = "#C9DBDC"  ' ---
-!$BASE02 = "#B0C5C8"  ' --
-!$BASE03 = "#98AFB5"  ' -
-!$BASE04 = "#8299A1"  ' +
-!$BASE05 = "#6D828E"  ' ++
-!$BASE06 = "#5A6D7A"  ' +++
-!$BASE07 = "#485867"  ' ++++
-!$BASE08 = "#b38686"  ' red
-!$BASE09 = "#d8bba2"  ' orange
-!$BASE0A = "#aab386"  ' yellow
-!$BASE0B = "#87b386"  ' green
-!$BASE0C = "#86b3b3"  ' aqua/cyan
-!$BASE0D = "#868cb3"  ' blue
-!$BASE0E = "#b386b2"  ' purple
-!$BASE0F = "#b39f9f"  ' brown
+!$BASE00 = "#E3EFEF"  /' ----      '/
+!$BASE01 = "#C9DBDC"  /' ---       '/
+!$BASE02 = "#B0C5C8"  /' --        '/
+!$BASE03 = "#98AFB5"  /' -         '/
+!$BASE04 = "#8299A1"  /' +         '/
+!$BASE05 = "#6D828E"  /' ++        '/
+!$BASE06 = "#5A6D7A"  /' +++       '/
+!$BASE07 = "#485867"  /' ++++      '/
+!$BASE08 = "#b38686"  /' red       '/
+!$BASE09 = "#d8bba2"  /' orange    '/
+!$BASE0A = "#aab386"  /' yellow    '/
+!$BASE0B = "#87b386"  /' green     '/
+!$BASE0C = "#86b3b3"  /' aqua/cyan '/
+!$BASE0D = "#868cb3"  /' blue      '/
+!$BASE0E = "#b386b2"  /' purple    '/
+!$BASE0F = "#b39f9f"  /' brown     '/

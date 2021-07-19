@@ -2,19 +2,19 @@
 '' Author: Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#2d2d2d"  ' ----
-!$BASE01 = "#393939"  ' ---
-!$BASE02 = "#515151"  ' --
-!$BASE03 = "#777777"  ' -
-!$BASE04 = "#b4b7b4"  ' +
-!$BASE05 = "#cccccc"  ' ++
-!$BASE06 = "#e0e0e0"  ' +++
-!$BASE07 = "#ffffff"  ' ++++
-!$BASE08 = "#d25252"  ' red
-!$BASE09 = "#f9a959"  ' orange
-!$BASE0A = "#ffc66d"  ' yellow
-!$BASE0B = "#a5c261"  ' green
-!$BASE0C = "#bed6ff"  ' aqua/cyan
-!$BASE0D = "#6c99bb"  ' blue
-!$BASE0E = "#d197d9"  ' purple
-!$BASE0F = "#f97394"  ' brown
+!$BASE00 = "#2d2d2d"  /' ----      '/
+!$BASE01 = "#393939"  /' ---       '/
+!$BASE02 = "#515151"  /' --        '/
+!$BASE03 = "#777777"  /' -         '/
+!$BASE04 = "#b4b7b4"  /' +         '/
+!$BASE05 = "#cccccc"  /' ++        '/
+!$BASE06 = "#e0e0e0"  /' +++       '/
+!$BASE07 = "#ffffff"  /' ++++      '/
+!$BASE08 = "#d25252"  /' red       '/
+!$BASE09 = "#f9a959"  /' orange    '/
+!$BASE0A = "#ffc66d"  /' yellow    '/
+!$BASE0B = "#a5c261"  /' green     '/
+!$BASE0C = "#bed6ff"  /' aqua/cyan '/
+!$BASE0D = "#6c99bb"  /' blue      '/
+!$BASE0E = "#d197d9"  /' purple    '/
+!$BASE0F = "#f97394"  /' brown     '/

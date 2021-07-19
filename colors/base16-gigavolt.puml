@@ -2,19 +2,19 @@
 '' Author: Aidan Swope (http://github.com/Whillikers)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#202126"  ' ----
-!$BASE01 = "#2d303d"  ' ---
-!$BASE02 = "#5a576e"  ' --
-!$BASE03 = "#a1d2e6"  ' -
-!$BASE04 = "#cad3ff"  ' +
-!$BASE05 = "#e9e7e1"  ' ++
-!$BASE06 = "#eff0f9"  ' +++
-!$BASE07 = "#f2fbff"  ' ++++
-!$BASE08 = "#ff661a"  ' red
-!$BASE09 = "#19f988"  ' orange
-!$BASE0A = "#ffdc2d"  ' yellow
-!$BASE0B = "#f2e6a9"  ' green
-!$BASE0C = "#fb6acb"  ' aqua/cyan
-!$BASE0D = "#40bfff"  ' blue
-!$BASE0E = "#ae94f9"  ' purple
-!$BASE0F = "#6187ff"  ' brown
+!$BASE00 = "#202126"  /' ----      '/
+!$BASE01 = "#2d303d"  /' ---       '/
+!$BASE02 = "#5a576e"  /' --        '/
+!$BASE03 = "#a1d2e6"  /' -         '/
+!$BASE04 = "#cad3ff"  /' +         '/
+!$BASE05 = "#e9e7e1"  /' ++        '/
+!$BASE06 = "#eff0f9"  /' +++       '/
+!$BASE07 = "#f2fbff"  /' ++++      '/
+!$BASE08 = "#ff661a"  /' red       '/
+!$BASE09 = "#19f988"  /' orange    '/
+!$BASE0A = "#ffdc2d"  /' yellow    '/
+!$BASE0B = "#f2e6a9"  /' green     '/
+!$BASE0C = "#fb6acb"  /' aqua/cyan '/
+!$BASE0D = "#40bfff"  /' blue      '/
+!$BASE0E = "#ae94f9"  /' purple    '/
+!$BASE0F = "#6187ff"  /' brown     '/

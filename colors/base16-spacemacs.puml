@@ -2,19 +2,19 @@
 '' Author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#1f2022"  ' ----
-!$BASE01 = "#282828"  ' ---
-!$BASE02 = "#444155"  ' --
-!$BASE03 = "#585858"  ' -
-!$BASE04 = "#b8b8b8"  ' +
-!$BASE05 = "#a3a3a3"  ' ++
-!$BASE06 = "#e8e8e8"  ' +++
-!$BASE07 = "#f8f8f8"  ' ++++
-!$BASE08 = "#f2241f"  ' red
-!$BASE09 = "#ffa500"  ' orange
-!$BASE0A = "#b1951d"  ' yellow
-!$BASE0B = "#67b11d"  ' green
-!$BASE0C = "#2d9574"  ' aqua/cyan
-!$BASE0D = "#4f97d7"  ' blue
-!$BASE0E = "#a31db1"  ' purple
-!$BASE0F = "#b03060"  ' brown
+!$BASE00 = "#1f2022"  /' ----      '/
+!$BASE01 = "#282828"  /' ---       '/
+!$BASE02 = "#444155"  /' --        '/
+!$BASE03 = "#585858"  /' -         '/
+!$BASE04 = "#b8b8b8"  /' +         '/
+!$BASE05 = "#a3a3a3"  /' ++        '/
+!$BASE06 = "#e8e8e8"  /' +++       '/
+!$BASE07 = "#f8f8f8"  /' ++++      '/
+!$BASE08 = "#f2241f"  /' red       '/
+!$BASE09 = "#ffa500"  /' orange    '/
+!$BASE0A = "#b1951d"  /' yellow    '/
+!$BASE0B = "#67b11d"  /' green     '/
+!$BASE0C = "#2d9574"  /' aqua/cyan '/
+!$BASE0D = "#4f97d7"  /' blue      '/
+!$BASE0E = "#a31db1"  /' purple    '/
+!$BASE0F = "#b03060"  /' brown     '/

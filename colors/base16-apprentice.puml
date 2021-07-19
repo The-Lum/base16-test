@@ -2,19 +2,19 @@
 '' Author: romainl
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#262626"  ' ----
-!$BASE01 = "#303030"  ' ---
-!$BASE02 = "#333333"  ' --
-!$BASE03 = "#6C6C6C"  ' -
-!$BASE04 = "#787878"  ' +
-!$BASE05 = "#BCBCBC"  ' ++
-!$BASE06 = "#C9C9C9"  ' +++
-!$BASE07 = "#FFFFFF"  ' ++++
-!$BASE08 = "#5F8787"  ' red
-!$BASE09 = "#FF8700"  ' orange
-!$BASE0A = "#5F8787"  ' yellow
-!$BASE0B = "#87AF87"  ' green
-!$BASE0C = "#5F875F"  ' aqua/cyan
-!$BASE0D = "#FFFFAF"  ' blue
-!$BASE0E = "#87AFD7"  ' purple
-!$BASE0F = "#5F87AF"  ' brown
+!$BASE00 = "#262626"  /' ----      '/
+!$BASE01 = "#303030"  /' ---       '/
+!$BASE02 = "#333333"  /' --        '/
+!$BASE03 = "#6C6C6C"  /' -         '/
+!$BASE04 = "#787878"  /' +         '/
+!$BASE05 = "#BCBCBC"  /' ++        '/
+!$BASE06 = "#C9C9C9"  /' +++       '/
+!$BASE07 = "#FFFFFF"  /' ++++      '/
+!$BASE08 = "#5F8787"  /' red       '/
+!$BASE09 = "#FF8700"  /' orange    '/
+!$BASE0A = "#5F8787"  /' yellow    '/
+!$BASE0B = "#87AF87"  /' green     '/
+!$BASE0C = "#5F875F"  /' aqua/cyan '/
+!$BASE0D = "#FFFFAF"  /' blue      '/
+!$BASE0E = "#87AFD7"  /' purple    '/
+!$BASE0F = "#5F87AF"  /' brown     '/

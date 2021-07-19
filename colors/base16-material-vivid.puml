@@ -2,19 +2,19 @@
 '' Author: joshyrobot
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#202124"  ' ----
-!$BASE01 = "#27292c"  ' ---
-!$BASE02 = "#323639"  ' --
-!$BASE03 = "#44464d"  ' -
-!$BASE04 = "#676c71"  ' +
-!$BASE05 = "#80868b"  ' ++
-!$BASE06 = "#9e9e9e"  ' +++
-!$BASE07 = "#ffffff"  ' ++++
-!$BASE08 = "#f44336"  ' red
-!$BASE09 = "#ff9800"  ' orange
-!$BASE0A = "#ffeb3b"  ' yellow
-!$BASE0B = "#00e676"  ' green
-!$BASE0C = "#00bcd4"  ' aqua/cyan
-!$BASE0D = "#2196f3"  ' blue
-!$BASE0E = "#673ab7"  ' purple
-!$BASE0F = "#8d6e63"  ' brown
+!$BASE00 = "#202124"  /' ----      '/
+!$BASE01 = "#27292c"  /' ---       '/
+!$BASE02 = "#323639"  /' --        '/
+!$BASE03 = "#44464d"  /' -         '/
+!$BASE04 = "#676c71"  /' +         '/
+!$BASE05 = "#80868b"  /' ++        '/
+!$BASE06 = "#9e9e9e"  /' +++       '/
+!$BASE07 = "#ffffff"  /' ++++      '/
+!$BASE08 = "#f44336"  /' red       '/
+!$BASE09 = "#ff9800"  /' orange    '/
+!$BASE0A = "#ffeb3b"  /' yellow    '/
+!$BASE0B = "#00e676"  /' green     '/
+!$BASE0C = "#00bcd4"  /' aqua/cyan '/
+!$BASE0D = "#2196f3"  /' blue      '/
+!$BASE0E = "#673ab7"  /' purple    '/
+!$BASE0F = "#8d6e63"  /' brown     '/

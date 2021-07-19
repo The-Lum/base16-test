@@ -2,19 +2,19 @@
 '' Author: cjayross (https://github.com/cjayross)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#fafafa"  ' ----
-!$BASE01 = "#7c9f4b"  ' ---
-!$BASE02 = "#d69822"  ' --
-!$BASE03 = "#5e646f"  ' -
-!$BASE04 = "#6587bf"  ' +
-!$BASE05 = "#5e646f"  ' ++
-!$BASE06 = "#b870ce"  ' +++
-!$BASE07 = "#5e646f"  ' ++++
-!$BASE08 = "#db7070"  ' red
-!$BASE09 = "#db7070"  ' orange
-!$BASE0A = "#d69822"  ' yellow
-!$BASE0B = "#7c9f4b"  ' green
-!$BASE0C = "#509c93"  ' aqua/cyan
-!$BASE0D = "#6587bf"  ' blue
-!$BASE0E = "#b870ce"  ' purple
-!$BASE0F = "#509c93"  ' brown
+!$BASE00 = "#fafafa"  /' ----      '/
+!$BASE01 = "#7c9f4b"  /' ---       '/
+!$BASE02 = "#d69822"  /' --        '/
+!$BASE03 = "#5e646f"  /' -         '/
+!$BASE04 = "#6587bf"  /' +         '/
+!$BASE05 = "#5e646f"  /' ++        '/
+!$BASE06 = "#b870ce"  /' +++       '/
+!$BASE07 = "#5e646f"  /' ++++      '/
+!$BASE08 = "#db7070"  /' red       '/
+!$BASE09 = "#db7070"  /' orange    '/
+!$BASE0A = "#d69822"  /' yellow    '/
+!$BASE0B = "#7c9f4b"  /' green     '/
+!$BASE0C = "#509c93"  /' aqua/cyan '/
+!$BASE0D = "#6587bf"  /' blue      '/
+!$BASE0E = "#b870ce"  /' purple    '/
+!$BASE0F = "#509c93"  /' brown     '/

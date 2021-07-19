@@ -2,19 +2,19 @@
 '' Author: Jan T. Sott (http://github.com/idleberg)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#090300"  ' ----
-!$BASE01 = "#3a3432"  ' ---
-!$BASE02 = "#4a4543"  ' --
-!$BASE03 = "#5c5855"  ' -
-!$BASE04 = "#807d7c"  ' +
-!$BASE05 = "#a5a2a2"  ' ++
-!$BASE06 = "#d6d5d4"  ' +++
-!$BASE07 = "#f7f7f7"  ' ++++
-!$BASE08 = "#db2d20"  ' red
-!$BASE09 = "#e8bbd0"  ' orange
-!$BASE0A = "#fded02"  ' yellow
-!$BASE0B = "#01a252"  ' green
-!$BASE0C = "#b5e4f4"  ' aqua/cyan
-!$BASE0D = "#01a0e4"  ' blue
-!$BASE0E = "#a16a94"  ' purple
-!$BASE0F = "#cdab53"  ' brown
+!$BASE00 = "#090300"  /' ----      '/
+!$BASE01 = "#3a3432"  /' ---       '/
+!$BASE02 = "#4a4543"  /' --        '/
+!$BASE03 = "#5c5855"  /' -         '/
+!$BASE04 = "#807d7c"  /' +         '/
+!$BASE05 = "#a5a2a2"  /' ++        '/
+!$BASE06 = "#d6d5d4"  /' +++       '/
+!$BASE07 = "#f7f7f7"  /' ++++      '/
+!$BASE08 = "#db2d20"  /' red       '/
+!$BASE09 = "#e8bbd0"  /' orange    '/
+!$BASE0A = "#fded02"  /' yellow    '/
+!$BASE0B = "#01a252"  /' green     '/
+!$BASE0C = "#b5e4f4"  /' aqua/cyan '/
+!$BASE0D = "#01a0e4"  /' blue      '/
+!$BASE0E = "#a16a94"  /' purple    '/
+!$BASE0F = "#cdab53"  /' brown     '/

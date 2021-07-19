@@ -2,19 +2,19 @@
 '' Author: PICO-8 (http://www.lexaloffle.com/pico-8.php)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#000000"  ' ----
-!$BASE01 = "#1d2b53"  ' ---
-!$BASE02 = "#7e2553"  ' --
-!$BASE03 = "#008751"  ' -
-!$BASE04 = "#ab5236"  ' +
-!$BASE05 = "#5f574f"  ' ++
-!$BASE06 = "#c2c3c7"  ' +++
-!$BASE07 = "#fff1e8"  ' ++++
-!$BASE08 = "#ff004d"  ' red
-!$BASE09 = "#ffa300"  ' orange
-!$BASE0A = "#fff024"  ' yellow
-!$BASE0B = "#00e756"  ' green
-!$BASE0C = "#29adff"  ' aqua/cyan
-!$BASE0D = "#83769c"  ' blue
-!$BASE0E = "#ff77a8"  ' purple
-!$BASE0F = "#ffccaa"  ' brown
+!$BASE00 = "#000000"  /' ----      '/
+!$BASE01 = "#1d2b53"  /' ---       '/
+!$BASE02 = "#7e2553"  /' --        '/
+!$BASE03 = "#008751"  /' -         '/
+!$BASE04 = "#ab5236"  /' +         '/
+!$BASE05 = "#5f574f"  /' ++        '/
+!$BASE06 = "#c2c3c7"  /' +++       '/
+!$BASE07 = "#fff1e8"  /' ++++      '/
+!$BASE08 = "#ff004d"  /' red       '/
+!$BASE09 = "#ffa300"  /' orange    '/
+!$BASE0A = "#fff024"  /' yellow    '/
+!$BASE0B = "#00e756"  /' green     '/
+!$BASE0C = "#29adff"  /' aqua/cyan '/
+!$BASE0D = "#83769c"  /' blue      '/
+!$BASE0E = "#ff77a8"  /' purple    '/
+!$BASE0F = "#ffccaa"  /' brown     '/

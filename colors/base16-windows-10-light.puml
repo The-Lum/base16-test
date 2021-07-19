@@ -2,19 +2,19 @@
 '' Author: Fergus Collins (https://github.com/C-Fergus)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#f2f2f2"  ' ----
-!$BASE01 = "#e5e5e5"  ' ---
-!$BASE02 = "#d9d9d9"  ' --
-!$BASE03 = "#cccccc"  ' -
-!$BASE04 = "#ababab"  ' +
-!$BASE05 = "#767676"  ' ++
-!$BASE06 = "#414141"  ' +++
-!$BASE07 = "#0c0c0c"  ' ++++
-!$BASE08 = "#c50f1f"  ' red
-!$BASE09 = "#f9f1a5"  ' orange
-!$BASE0A = "#c19c00"  ' yellow
-!$BASE0B = "#13a10e"  ' green
-!$BASE0C = "#3a96dd"  ' aqua/cyan
-!$BASE0D = "#0037da"  ' blue
-!$BASE0E = "#881798"  ' purple
-!$BASE0F = "#16c60c"  ' brown
+!$BASE00 = "#f2f2f2"  /' ----      '/
+!$BASE01 = "#e5e5e5"  /' ---       '/
+!$BASE02 = "#d9d9d9"  /' --        '/
+!$BASE03 = "#cccccc"  /' -         '/
+!$BASE04 = "#ababab"  /' +         '/
+!$BASE05 = "#767676"  /' ++        '/
+!$BASE06 = "#414141"  /' +++       '/
+!$BASE07 = "#0c0c0c"  /' ++++      '/
+!$BASE08 = "#c50f1f"  /' red       '/
+!$BASE09 = "#f9f1a5"  /' orange    '/
+!$BASE0A = "#c19c00"  /' yellow    '/
+!$BASE0B = "#13a10e"  /' green     '/
+!$BASE0C = "#3a96dd"  /' aqua/cyan '/
+!$BASE0D = "#0037da"  /' blue      '/
+!$BASE0E = "#881798"  /' purple    '/
+!$BASE0F = "#16c60c"  /' brown     '/

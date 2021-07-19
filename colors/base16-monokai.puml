@@ -2,19 +2,19 @@
 '' Author: Wimer Hazenberg (http://www.monokai.nl)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#272822"  ' ----
-!$BASE01 = "#383830"  ' ---
-!$BASE02 = "#49483e"  ' --
-!$BASE03 = "#75715e"  ' -
-!$BASE04 = "#a59f85"  ' +
-!$BASE05 = "#f8f8f2"  ' ++
-!$BASE06 = "#f5f4f1"  ' +++
-!$BASE07 = "#f9f8f5"  ' ++++
-!$BASE08 = "#f92672"  ' red
-!$BASE09 = "#fd971f"  ' orange
-!$BASE0A = "#f4bf75"  ' yellow
-!$BASE0B = "#a6e22e"  ' green
-!$BASE0C = "#a1efe4"  ' aqua/cyan
-!$BASE0D = "#66d9ef"  ' blue
-!$BASE0E = "#ae81ff"  ' purple
-!$BASE0F = "#cc6633"  ' brown
+!$BASE00 = "#272822"  /' ----      '/
+!$BASE01 = "#383830"  /' ---       '/
+!$BASE02 = "#49483e"  /' --        '/
+!$BASE03 = "#75715e"  /' -         '/
+!$BASE04 = "#a59f85"  /' +         '/
+!$BASE05 = "#f8f8f2"  /' ++        '/
+!$BASE06 = "#f5f4f1"  /' +++       '/
+!$BASE07 = "#f9f8f5"  /' ++++      '/
+!$BASE08 = "#f92672"  /' red       '/
+!$BASE09 = "#fd971f"  /' orange    '/
+!$BASE0A = "#f4bf75"  /' yellow    '/
+!$BASE0B = "#a6e22e"  /' green     '/
+!$BASE0C = "#a1efe4"  /' aqua/cyan '/
+!$BASE0D = "#66d9ef"  /' blue      '/
+!$BASE0E = "#ae81ff"  /' purple    '/
+!$BASE0F = "#cc6633"  /' brown     '/

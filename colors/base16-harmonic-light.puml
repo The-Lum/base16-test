@@ -2,19 +2,19 @@
 '' Author: Jannik Siebert (https://github.com/janniks)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#f7f9fb"  ' ----
-!$BASE01 = "#e5ebf1"  ' ---
-!$BASE02 = "#cbd6e2"  ' --
-!$BASE03 = "#aabcce"  ' -
-!$BASE04 = "#627e99"  ' +
-!$BASE05 = "#405c79"  ' ++
-!$BASE06 = "#223b54"  ' +++
-!$BASE07 = "#0b1c2c"  ' ++++
-!$BASE08 = "#bf8b56"  ' red
-!$BASE09 = "#bfbf56"  ' orange
-!$BASE0A = "#8bbf56"  ' yellow
-!$BASE0B = "#56bf8b"  ' green
-!$BASE0C = "#568bbf"  ' aqua/cyan
-!$BASE0D = "#8b56bf"  ' blue
-!$BASE0E = "#bf568b"  ' purple
-!$BASE0F = "#bf5656"  ' brown
+!$BASE00 = "#f7f9fb"  /' ----      '/
+!$BASE01 = "#e5ebf1"  /' ---       '/
+!$BASE02 = "#cbd6e2"  /' --        '/
+!$BASE03 = "#aabcce"  /' -         '/
+!$BASE04 = "#627e99"  /' +         '/
+!$BASE05 = "#405c79"  /' ++        '/
+!$BASE06 = "#223b54"  /' +++       '/
+!$BASE07 = "#0b1c2c"  /' ++++      '/
+!$BASE08 = "#bf8b56"  /' red       '/
+!$BASE09 = "#bfbf56"  /' orange    '/
+!$BASE0A = "#8bbf56"  /' yellow    '/
+!$BASE0B = "#56bf8b"  /' green     '/
+!$BASE0C = "#568bbf"  /' aqua/cyan '/
+!$BASE0D = "#8b56bf"  /' blue      '/
+!$BASE0E = "#bf568b"  /' purple    '/
+!$BASE0F = "#bf5656"  /' brown     '/

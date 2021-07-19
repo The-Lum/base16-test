@@ -2,19 +2,19 @@
 '' Author: gidsi
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#1e0528"  ' ----
-!$BASE01 = "#1A092D"  ' ---
-!$BASE02 = "#331354"  ' --
-!$BASE03 = "#320f55"  ' -
-!$BASE04 = "#873582"  ' +
-!$BASE05 = "#ffeeff"  ' ++
-!$BASE06 = "#ffeeff"  ' +++
-!$BASE07 = "#f8c0ff"  ' ++++
-!$BASE08 = "#00d9e9"  ' red
-!$BASE09 = "#aa00a3"  ' orange
-!$BASE0A = "#955ae7"  ' yellow
-!$BASE0B = "#05cb0d"  ' green
-!$BASE0C = "#b900b1"  ' aqua/cyan
-!$BASE0D = "#550068"  ' blue
-!$BASE0E = "#8991bb"  ' purple
-!$BASE0F = "#4d6fff"  ' brown
+!$BASE00 = "#1e0528"  /' ----      '/
+!$BASE01 = "#1A092D"  /' ---       '/
+!$BASE02 = "#331354"  /' --        '/
+!$BASE03 = "#320f55"  /' -         '/
+!$BASE04 = "#873582"  /' +         '/
+!$BASE05 = "#ffeeff"  /' ++        '/
+!$BASE06 = "#ffeeff"  /' +++       '/
+!$BASE07 = "#f8c0ff"  /' ++++      '/
+!$BASE08 = "#00d9e9"  /' red       '/
+!$BASE09 = "#aa00a3"  /' orange    '/
+!$BASE0A = "#955ae7"  /' yellow    '/
+!$BASE0B = "#05cb0d"  /' green     '/
+!$BASE0C = "#b900b1"  /' aqua/cyan '/
+!$BASE0D = "#550068"  /' blue      '/
+!$BASE0E = "#8991bb"  /' purple    '/
+!$BASE0F = "#4d6fff"  /' brown     '/

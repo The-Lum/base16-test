@@ -2,19 +2,19 @@
 '' Author: Gabriel Fontes (https://github.com/Misterio77)
 '' to be use in your PlantUML theme
 
-!$BASE00 = "#0e3c46"  ' ----
-!$BASE01 = "#1D494E"  ' ---
-!$BASE02 = "#2A5054"  ' --
-!$BASE03 = "#587073"  ' -
-!$BASE04 = "#9DC8CD"  ' +
-!$BASE05 = "#C7DBDD"  ' ++
-!$BASE06 = "#CBF2F7"  ' +++
-!$BASE07 = "#D2FAFF"  ' ++++
-!$BASE08 = "#fb6953"  ' red
-!$BASE09 = "#fcab74"  ' orange
-!$BASE0A = "#fce380"  ' yellow
-!$BASE0B = "#73d8ad"  ' green
-!$BASE0C = "#3fb2b9"  ' aqua/cyan
-!$BASE0D = "#46bddd"  ' blue
-!$BASE0E = "#756b8a"  ' purple
-!$BASE0F = "#9b647b"  ' brown
+!$BASE00 = "#0e3c46"  /' ----      '/
+!$BASE01 = "#1D494E"  /' ---       '/
+!$BASE02 = "#2A5054"  /' --        '/
+!$BASE03 = "#587073"  /' -         '/
+!$BASE04 = "#9DC8CD"  /' +         '/
+!$BASE05 = "#C7DBDD"  /' ++        '/
+!$BASE06 = "#CBF2F7"  /' +++       '/
+!$BASE07 = "#D2FAFF"  /' ++++      '/
+!$BASE08 = "#fb6953"  /' red       '/
+!$BASE09 = "#fcab74"  /' orange    '/
+!$BASE0A = "#fce380"  /' yellow    '/
+!$BASE0B = "#73d8ad"  /' green     '/
+!$BASE0C = "#3fb2b9"  /' aqua/cyan '/
+!$BASE0D = "#46bddd"  /' blue      '/
+!$BASE0E = "#756b8a"  /' purple    '/
+!$BASE0F = "#9b647b"  /' brown     '/
