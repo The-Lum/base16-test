@@ -21,3 +21,4 @@ build:
 	#mv -f ${OUTPUT}/${TEMPLATE}/${THEME_DIR}/ ${THEME_DIR}/
 	mv -f ${OUTPUT}/${TEMPLATE}/${COLORS_DIR}/ ${COLORS_DIR}/
 	rm -rf ${OUTPUT} ${TEMPLATE_DIR}/*/
+	rename s/^base/puml-theme-base/ ${COLORS_DIR}/*
