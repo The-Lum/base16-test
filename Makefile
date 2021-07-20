@@ -24,4 +24,4 @@ build:
 	#sudo apt install rename -y
 	#rename 's/^base/puml-theme-base/' ${COLORS_DIR}/*
 	cd ${COLORS_DIR}/
-	for f in *.puml; do mv -- "$f" "plantuml-theme-$f"; done
+	for f in *.puml; do mv -- "$$f" "plantuml-theme-$$f"; done
