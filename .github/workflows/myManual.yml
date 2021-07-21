@@ -30,7 +30,3 @@ jobs:
     - name: Send greeting
       run: echo "Hello ${{ github.event.inputs.name }}"
 
-
-branding:
-  icon: 'award'  
-  color: 'green'
